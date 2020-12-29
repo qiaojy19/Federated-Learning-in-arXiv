@@ -1,10 +1,8 @@
-# Federated Learning in arXiv
-
-**Weekly Update**
+# Federated Learning in arXiv 【Weekly Update】
 
 Notes:
 - **ZZZ** is used for sort conveniently. It means this paper has not accepted by any conferences or journals yet.
-- The readme homepage will show those papers submitted in the recent **2 months**, others will be put into the correspondind hyperlink.
+- The readme homepage will only show those papers submitted in **this month**, others will be put into the correspondind hyperlink.
 
 <!-- ## 2021
 
