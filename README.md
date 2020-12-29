@@ -15,7 +15,7 @@ Notes:
 
 | Accpeted | Year | Title                                                                                                                                    | Code                                        |
 | -------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
-| ZZZ      | 2020 | [Federated Multi-Agent Actor-Critic Learning for Age Sensitive Mobile Edge Computing](https://arxiv.org/pdf/2012.14137)()                |
+| ZZZ      | 2020 | [Federated Multi-Agent Actor-Critic Learning for Age Sensitive Mobile Edge Computing](https://arxiv.org/pdf/2012.14137)                |
 | ZZZ      | 2020 | [FedMAX: Mitigating Activation Divergence for Accurate and Communication-Efficient Federated Learning](https://arxiv.org/pdf/2004.03657) |
 | NDSS     | 2021 | [FLTrust: Byzantine-robust Federated Learning via Trust Bootstrapping](https://arxiv.org/pdf/2012.13995)                                 |
 | AAAI     | 2021 | [Federated Block Coordinate Descent Scheme for Learning Global and Personalized Models](https://arxiv.org/pdf/2012.13900)                | [FedBCD](https://github.com/REIYANG/FedBCD) |
