@@ -1,9 +1,9 @@
 # Federated Learning in arXiv 【Weekly Update】
 
 Notes:
+- The corresponding updated version [Tencent document](https://docs.qq.com/sheet/DSXB6Qk9KanBURURR?tab=k6ipak) is here.
 - **ZZZ** is used for sort conveniently. It means this paper has not accepted by any conferences or journals yet.
 - The readme homepage will only show those papers submitted in **this month**, others will be put into the correspondind hyperlink.
-
 <!-- ## 2021
 
 ### 01.04 - 01.08 -->
@@ -13,13 +13,14 @@ Notes:
 
 ### 12.28 - 01.01 `<-This Week`
 
-| Accpeted | Year | Title                                                                                                                                    | Code                                        |
-| -------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
-| ZZZ      | 2020 | [Federated Multi-Agent Actor-Critic Learning for Age Sensitive Mobile Edge Computing](https://arxiv.org/pdf/2012.14137)                |
-| ZZZ      | 2020 | [FedMAX: Mitigating Activation Divergence for Accurate and Communication-Efficient Federated Learning](https://arxiv.org/pdf/2004.03657) |
-| NDSS     | 2021 | [FLTrust: Byzantine-robust Federated Learning via Trust Bootstrapping](https://arxiv.org/pdf/2012.13995)                                 |
-| AAAI     | 2021 | [Federated Block Coordinate Descent Scheme for Learning Global and Personalized Models](https://arxiv.org/pdf/2012.13900)                | [FedBCD](https://github.com/REIYANG/FedBCD) |
-| ZZZ      | 2020 | [Federated Unlearning](https://arxiv.org/pdf/2012.13891)                                                                                 |
+| Accpeted | Year | Title                                                                                                                                                           | Code                                        |
+| -------- | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| ZZZ      | 2020 | [Federated Multi-Agent Actor-Critic Learning for Age Sensitive Mobile Edge Computing](https://arxiv.org/pdf/2012.14137)                                         |
+| ZZZ      | 2020 | [FedMAX: Mitigating Activation Divergence for Accurate and Communication-Efficient Federated Learning](https://arxiv.org/pdf/2004.03657)                        |
+| NDSS     | 2021 | [FLTrust: Byzantine-robust Federated Learning via Trust Bootstrapping](https://arxiv.org/pdf/2012.13995)                                                        |
+| AAAI     | 2021 | [Federated Block Coordinate Descent Scheme for Learning Global and Personalized Models](https://arxiv.org/pdf/2012.13900)                                       | [FedBCD](https://github.com/REIYANG/FedBCD) |
+| ZZZ      | 2020 | [Federated Unlearning](https://arxiv.org/pdf/2012.13891)                                                                                                        |
+| AAAI     | 2021 | [FLAME: Differentially Private Federated Learning in the Shuffle Model                                                 ](https://arxiv.org/pdf/2009.08063     ) |
 
 
 
@@ -107,7 +108,6 @@ Notes:
 
 | Accpeted     | Year | Title                                                                                                                                                           | Code |
 | ------------ | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
-| AAAI         | 2021 | [FLAME: Differentially Private Federated Learning in the Shuffle Model                                                 ](https://arxiv.org/pdf/2009.08063     ) |
 | AAAI         | 2021 | [Personalized Cross-Silo Federated Learning on Non-IID Data                                                            ](https://arxiv.org/pdf/2007.03797.pdf ) |
 | Computing    | 2021 | [Automated Metadata Harmonization Using Entity Resolution & Contextual Embedding                                       ](https://arxiv.org/pdf/2010.11827.pdf ) |
 | CLOUD        | 2020 | [MYSTIKO : : Cloud-Mediated, Private, Federated Gradient Descent                                                       ](https://arxiv.org/pdf/2012.00740.pdf ) |
