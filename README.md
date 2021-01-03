@@ -14,16 +14,22 @@ Notes:
 
 ### 12.28 - 01.01 `<-This Week`
 
-| Accpeted | Year | Title                                                                                                                                    | Code                                        |
-| -------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
-| ZZZ      | 2020 | [Federated Multi-Agent Actor-Critic Learning for Age Sensitive Mobile Edge Computing](https://arxiv.org/pdf/2012.14137)                  |
-| ZZZ      | 2020 | [FedMAX: Mitigating Activation Divergence for Accurate and Communication-Efficient Federated Learning](https://arxiv.org/pdf/2004.03657) |
-| NDSS     | 2021 | [FLTrust: Byzantine-robust Federated Learning via Trust Bootstrapping](https://arxiv.org/pdf/2012.13995)                                 |
-| AAAI     | 2021 | [Federated Block Coordinate Descent Scheme for Learning Global and Personalized Models](https://arxiv.org/pdf/2012.13900)                | [FedBCD](https://github.com/REIYANG/FedBCD) |
-| ZZZ      | 2020 | [Federated Unlearning](https://arxiv.org/pdf/2012.13891)                                                                                 |
-| AAAI     | 2021 | [FLAME: Differentially Private Federated Learning in the Shuffle Model](https://arxiv.org/pdf/2009.08063)                                |
-
-
+| Accpeted | Year | Title                                                                                                                                                                           | Code                                        |
+| -------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| ZZZ      | 2020 | [Federated Multi-Agent Actor-Critic Learning for Age Sensitive Mobile Edge Computing](https://arxiv.org/pdf/2012.14137)                                                         |
+| ZZZ      | 2020 | [FedMAX: Mitigating Activation Divergence for Accurate and Communication-Efficient Federated Learning](https://arxiv.org/pdf/2004.03657)                                        |
+| NDSS     | 2021 | [FLTrust: Byzantine-robust Federated Learning via Trust Bootstrapping](https://arxiv.org/pdf/2012.13995)                                                                        |
+| AAAI     | 2021 | [Federated Block Coordinate Descent Scheme for Learning Global and Personalized Models](https://arxiv.org/pdf/2012.13900)                                                       | [FedBCD](https://github.com/REIYANG/FedBCD) |
+| ZZZ      | 2020 | [Federated Unlearning](https://arxiv.org/pdf/2012.13891)                                                                                                                        |
+| AAAI     | 2021 | [FLAME: Differentially Private Federated Learning in the Shuffle Model](https://arxiv.org/pdf/2009.08063)                                                                       |
+| ZZZ      | 2020 | [Timely Communication in Federated Learning](https://arxiv.org/pdf/2012.15831)                                                                                                  |
+| ZZZ      | 2020 | [PFL-MoE: Personalized Federated Learning Based on Mixture of Experts](https://arxiv.org/pdf/2012.15589)                                                                        |
+| ZZZ      | 2020 | [Bayesian Federated Learning over Wireless Networks](https://arxiv.org/pdf/2012.15486)                                                                                          |
+| DISP     | 2019 | [A Review of Machine Learning Techniques for Applied<!--  --> Eye Fundus and Tongue Digital Image Processing with Diabetes Management System](https://arxiv.org/pdf/2012.15025) |
+| ECIR     | 2021 | [FedeRank: User Controlled Feedback withFederatedRecommender Systems](https://arxiv.org/pdf/2012.11328)                                                                         |
+| ZZZ      | 2020 | [Hybrid FL: Algorithms and Implementation](https://arxiv.org/pdf/2012.12420)                                                                                                    |
+| ZZZ      | 2020 | [Privacy-preserving Decentralized Aggregation for Federated Learning](https://arxiv.org/pdf/2012.07183)                                                                         |
+| ZZZ      | 2020 | [Straggler-Resilient Federated Learning: Leveraging the Interplay Between Statistical Accuracy and System Heterogeneity](https://arxiv.org/pdf/2012.14453)                      |
 
 ### 12.21 - 12.25
 
