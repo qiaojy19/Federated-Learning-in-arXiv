@@ -1,13 +1,18 @@
 # Federated Learning in arXiv 【Weekly Update】
 
 Notes:
-- The corresponding updated version [Tencent document](https://docs.qq.com/sheet/DSXB6Qk9KanBURURR?tab=k6ipak) is here.
 - **ZZZ** is used for sort conveniently. It means this paper has not accepted by any conferences or journals yet.
 - The readme homepage will only show those papers submitted in **this month**, others will be put into the correspondind hyperlink.
-- The regular expression `\s\) -> )` is used to remove abundant spaces.
+- The corresponding updated version [Tencent document](https://docs.qq.com/sheet/DSXB6Qk9KanBURURR?tab=k6ipak) is here.
+- the [search page](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=federated+learning&terms-0-field=all&classification-physics_archives=all&classification-include_cross_list=include&date-year=2020&date-filter_by=date_range&date-from_date=2020-12-27&date-to_date=&date-date_type=submitted_date&abstracts=show&size=25&order=-submitted_date) of arxiv
 <!-- ## 2021
 
 ### 01.04 - 01.08 -->
+
+
+<!-- 
+Notes:
+- The regular expression `\s\) -> )` is used to remove abundant spaces. -->
 
 
 ## 2020
