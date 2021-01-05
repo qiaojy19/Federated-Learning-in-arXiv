@@ -5,19 +5,28 @@ Notes:
 - The readme homepage will only show those papers submitted in **this month**, others will be put into the correspondind hyperlink.
 - The corresponding updated version [Tencent document](https://docs.qq.com/sheet/DSXB6Qk9KanBURURR?tab=k6ipak) is here.
 - the [search page](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=federated+learning&terms-0-field=all&classification-physics_archives=all&classification-include_cross_list=include&date-year=2020&date-filter_by=date_range&date-from_date=2020-12-27&date-to_date=&date-date_type=submitted_date&abstracts=show&size=25&order=-submitted_date) of arxiv
-<!-- ## 2021
 
-### 01.04 - 01.08 -->
 
 
 <!-- 
 Notes:
-- The regular expression `\s\) -> )` is used to remove abundant spaces. -->
+- The regular expression `\s+\) -> )` is used to remove abundant spaces. -->
 
 
+## 2021
+
+### 01.04 - 01.08 `<-This Week`
+
+| Accpeted | Year | Title                                                                                                                                         | Code             |
+| -------- | ---- | --------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| ZZZ      | 2021 | [Fusion of Federated Learning and Industrial Internet of Things: A Survey](https://arxiv.org/pdf/2101.00798)                                  |
+| INFOCOM  | 2021 | [Device Sampling for Heterogeneous Federated Learning: Theory, Algorithms, and Implementation](https://arxiv.org/pdf/2101.00787)              |
+| CVPR-NAS | 2020 | [Towards Non-I.I.D. and Invisible Data with FedNAS: Federated Deep Learning via Neural Architecture Search](https://arxiv.org/pdf/2004.08546) | https://fedml.ai |
+| ZZZ      | 2021 | [D2P-Fed: Differentially Private Federated Learning With Efficient Communication](https://arxiv.org/pdf/2006.13039)                           |
+| ZZZ      | 2021 | [Decentralised Learning from Independent Multi-Domain Labels for Person Re-Identification](https://arxiv.org/pdf/2006.04150)                  |
 ## 2020
 
-### 12.28 - 01.01 `<-This Week`
+### 12.28 - 01.01 
 
 | Accpeted | Year | Title                                                                                                                                                                  | Code                                        |
 | -------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
@@ -34,6 +43,9 @@ Notes:
 | ZZZ      | 2020 | [Hybrid FL: Algorithms and Implementation](https://arxiv.org/pdf/2012.12420)                                                                                           |
 | ZZZ      | 2020 | [Privacy-preserving Decentralized Aggregation for Federated Learning](https://arxiv.org/pdf/2012.07183)                                                                |
 | ZZZ      | 2020 | [Straggler-Resilient Federated Learning: Leveraging the Interplay Between Statistical Accuracy and System Heterogeneity](https://arxiv.org/pdf/2012.14453)             |
+| ZZZ      | 2020 | [Dynamic Federated Learning-Based Economic Framework for Internet-of-Vehicles](https://arxiv.org/pdf/2101.00191)                                                       |
+| ZZZ      | 2020 | [Fidel: Reconstructing Private Training Samples from Weight Updates in Federated Learning](https://arxiv.org/pdf/2101.00159)                                           |
+| ZZZ      | 2020 | [Federated Nonconvex Sparse Learning](https://arxiv.org/pdf/2101.00052)                                                                                                |
 | DISP     | 2019 | [A Review of Machine Learning Techniques for Applied Eye Fundus and Tongue Digital Image Processing with Diabetes Management System](https://arxiv.org/pdf/2012.15025) |
 ### 12.21 - 12.25
 
