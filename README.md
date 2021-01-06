@@ -1,10 +1,12 @@
 # Federated Learning in arXiv
 
+**Weekly Updated**
+
 Notes:
 - **ZZZ**, which means a paper has not accepted by any conferences or journals yet, is used for conveniently sorting.
 - The **Readme** homepage will only show those papers submitted in **this month**, others will be put into the correspondind hyperlink.
-- The corresponding [Tencent document](https://docs.qq.com/sheet/DSXB6Qk9KanBURURR?tab=k6ipak).
-- Those papers published in Conference or Journal are put into another [Tencent document](https://docs.qq.com/sheet/DSU9MTG5QWm91SFBh).
+- The daily updated version in [Tencent document](https://docs.qq.com/sheet/DSXB6Qk9KanBURURR?tab=k6ipak).
+- The Conference or Journal version in [Tencent document](https://docs.qq.com/sheet/DSU9MTG5QWm91SFBh).
 - the [search page](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=federated+learning&terms-0-field=all&classification-physics_archives=all&classification-include_cross_list=include&date-year=2020&date-filter_by=date_range&date-from_date=2020-12-27&date-to_date=&date-date_type=submitted_date&abstracts=show&size=25&order=-submitted_date) of arxiv
 
 
@@ -18,13 +20,8 @@ Notes:
 
 ### 01.04 - 01.08 `<-This Week`
 
-| Accpeted | Year | Title                                                                                                                                         | Code             |
-| -------- | ---- | --------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
-| ZZZ      | 2021 | [Fusion of Federated Learning and Industrial Internet of Things: A Survey](https://arxiv.org/pdf/2101.00798)                                  |
-| INFOCOM  | 2021 | [Device Sampling for Heterogeneous Federated Learning: Theory, Algorithms, and Implementation](https://arxiv.org/pdf/2101.00787)              |
-| CVPR-NAS | 2020 | [Towards Non-I.I.D. and Invisible Data with FedNAS: Federated Deep Learning via Neural Architecture Search](https://arxiv.org/pdf/2004.08546) | https://fedml.ai |
-| ZZZ      | 2021 | [D2P-Fed: Differentially Private Federated Learning With Efficient Communication](https://arxiv.org/pdf/2006.13039)                           |
-| ZZZ      | 2021 | [Decentralised Learning from Independent Multi-Domain Labels for Person Re-Identification](https://arxiv.org/pdf/2006.04150)                  |
+**To Be Updated**
+
 ## 2020
 
 ### 12.28 - 01.01 
