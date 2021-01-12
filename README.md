@@ -28,6 +28,7 @@ Notes:
 | ---------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
 | AAAI       | 2021 | [Personalized Cross-Silo Federated Learning on Non-IID Data](https://arxiv.org/pdf/2007.03797)                                                         | https://t.ly/nGN9 |
 | INFOCOM    | 2021 | [Device Sampling for Heterogeneous Federated Learning: Theory, Algorithms, and Implementation](https://arxiv.org/pdf/2101.00787)                       |
+| NDSS       | 2021 | [POSEIDON: Privacy-Preserving Federated Neural Network Learning](https://arxiv.org/pdf/2009.00349)                                                     |
 | ZZZ        | 2021 | [Fusion of Federated Learning and Industrial Internet of Things: A Survey](https://arxiv.org/pdf/2101.00798)                                           |
 | ZZZ        | 2021 | [D2P-Fed: Differentially Private Federated Learning With Efficient Communication](https://arxiv.org/pdf/2006.13039)                                    |
 | ZZZ        | 2021 | [Decentralised Learning from Independent Multi-Domain Labels for Person Re-Identification](https://arxiv.org/pdf/2006.04150)                           |
@@ -41,6 +42,8 @@ Notes:
 | ZZZ        | 2021 | [Attack-Resistant Federated Learning with Residual-based Reweighting](https://arxiv.org/pdf/1912.11464)                                                |
 | ZZZ        | 2021 | [Architectural Patterns for the Design of Federated Learning Systems](https://arxiv.org/pdf/2101.02373)                                                |
 | ZZZ        | 2021 | [FLGUARD: Secure and Private Federated Learning](https://arxiv.org/pdf/2101.02281)                                                                     |
+| ZZZ        | 2021 | [Differentially Private Federated Learning for Cancer Prediction](https://arxiv.org/pdf/2101.02997)                                                    |
+| ZZZ        | 2021 | [FedGroup: Accurate Federated Learning via Decomposed Similarity-Based Clustering](https://arxiv.org/pdf/2010.06870)                                   |
 | CVPR-NAS   | 2020 | [Towards Non-I.I.D. and Invisible Data with FedNAS: Federated Deep Learning via Neural Architecture Search](https://arxiv.org/pdf/2004.08546)          | https://fedml.ai  |
 | NeurIPS-FL | 2019 | [Real-World Image Datasets for Federated Learning](https://arxiv.org/pdf/1910.11089)                                                                   |
 ## 2020
