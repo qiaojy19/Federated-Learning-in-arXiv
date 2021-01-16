@@ -6,7 +6,7 @@ Notes:
 - **ZZZ**, which means a paper has not accepted by any conferences or journals yet, is used for conveniently sorting.
 - The **Readme** homepage will only show those papers submitted in **this month**, others will be put into the correspondind hyperlink.
 - The Conference or Journal version in [Tencent document](https://docs.qq.com/sheet/DSU9MTG5QWm91SFBh).
-- the [search page](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=federated+learning&terms-0-field=all&classification-physics_archives=all&classification-include_cross_list=include&date-year=2020&date-filter_by=date_range&date-from_date=2020-12-27&date-to_date=&date-date_type=submitted_date&abstracts=show&size=25&order=-submitted_date) of arxiv
+- the [search page](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=federated+learning&terms-0-field=all&classification-physics_archives=all&classification-include_cross_list=include&date-year=2020&date-filter_by=date_range&date-from_date=2021-01-01&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-submitted_date) of arxiv
 
 
 
@@ -19,7 +19,7 @@ Notes:
 
 ### 01.11 - 01.15 `<-This Week`
 
-**The daily updated version of [Tencent document](https://docs.qq.com/sheet/DSXB6Qk9KanBURURR?tab=k6ipak).**
+**The daily updated version of [Tencent document](https://docs.qq.com/sheet/DSXB6Qk9KanBURURR?).**
 
 ### 01.04 - 01.08
 
