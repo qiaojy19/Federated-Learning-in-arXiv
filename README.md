@@ -17,9 +17,36 @@ Notes:
 
 ## 2021
 
-### 01.11 - 01.15 `<-This Week`
+### 01.18 - 01.22 `<-This Week`
 
 The **Daily Updated** version of [Tencent document](https://docs.qq.com/sheet/DSXB6Qk9KanBURURR?).
+
+
+### 01.11 - 01.15
+
+| Accpeted       | Year | Title                                                                                                                                | Code |
+| -------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------ | ---- |
+| AAAI           | 2021 | [Personalized Cross-Silo Federated Learning on Non-IID Data](https://arxiv.org/abs/2007.03797)                                       |
+| Communications | 2021 | [Opportunities of Federated Learning in Connected, Cooperative and Automated Industrial Systems](https://arxiv.org/abs/2101.03367)   |
+| ZZZ            | 2021 | [A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://arxiv.org/abs/1907.09693) |
+| ZZZ            | 2021 | [Auto-weighted Robust Federated Learning with Corrupted Data Sources](https://arxiv.org/abs/2101.05880)                              |
+| ZZZ            | 2021 | [Bandwidth Allocation for Multiple Federated Learning Services in Wireless Edge Networks](https://arxiv.org/abs/2101.03627)          |
+| ZZZ            | 2021 | [DONE: Distributed Approximate Newton-type Method for Federated Edge Learning](https://arxiv.org/abs/2012.05625)                     |
+| ZZZ            | 2021 | [FedAR: Activity and Resource-Aware Federated Learning Model for Distributed Mobile Robots](https://arxiv.org/abs/2101.03705)        |
+| ZZZ            | 2021 | [Federated and continual learning for classification tasks in a society of devices](https://arxiv.org/abs/2006.07129)                |
+| ZZZ            | 2021 | [Federated Learning: Opportunities and Challenges](https://arxiv.org/abs/2101.05428)                                                 |
+| ZZZ            | 2021 | [Heterogeneity-Aware Federated Learning](https://arxiv.org/abs/2006.06983)                                                           |
+| ZZZ            | 2021 | [Layer-wise Characterization of Latent Information Leakage in Federated Learning](https://arxiv.org/abs/2010.08762)                  |
+| ZZZ            | 2021 | [Mitigating Backdoor Attacks in Federated Learning](https://arxiv.org/abs/2011.01767)                                                |
+| ZZZ            | 2021 | [On the Practicality of Differential Privacy in Federated Learning by Tuning Iteration Times](https://arxiv.org/abs/2101.04163)      |
+| ZZZ            | 2021 | [Opportunities of Federated Learning in Connected, Cooperative and Automated Industrial Systems](https://arxiv.org/abs/2101.03367)   |
+| ZZZ            | 2021 | [Personalized Federated Deep Learning for Pain Estimation From Face Images](https://arxiv.org/abs/2101.04800)                        |
+| ZZZ            | 2021 | [Privacy-Preserving Learning of Human Activity Predictors in Smart Environments](https://arxiv.org/abs/2101.06564)                   |
+| ZZZ            | 2021 | [Probabilistic Inference for Learning from Untrusted Sources](https://arxiv.org/abs/2101.06171)                                      |
+| ZZZ            | 2021 | [The Future of Digital Health with Federated Learning](https://arxiv.org/abs/2003.08119)                                             |
+| ZZZ            | 2021 | [Towards Energy Efficient Federated Learning over 5G+ Mobile Devices](https://arxiv.org/abs/2101.04866)                              |
+| IoT            | 2020 | [E-Tree Learning: A Novel Decentralized Model Learning Framework for Edge AI](https://arxiv.org/abs/2008.01553)                      |
+| NeurIPS        | 2020 | [Learning discrete distributions: user vs item-level privacy](https://arxiv.org/abs/2007.13660)                                      |
 
 ### 01.04 - 01.08
 
