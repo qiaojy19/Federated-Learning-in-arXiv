@@ -24,9 +24,9 @@ The **Daily Updated** version of [Tencent document](https://docs.qq.com/sheet/DS
 
 ### 01.11 - 01.15
 
-| Accpeted       | Year | Title                                                                                                                                | Code |
-| -------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------ | ---- |
-| AAAI           | 2021 | [Personalized Cross-Silo Federated Learning on Non-IID Data](https://arxiv.org/abs/2007.03797)                                       |
+| Accpeted       | Year | Title                                                                                                                                | Code              |
+| -------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| AAAI           | 2021 | [Personalized Cross-Silo Federated Learning on Non-IID Data](https://arxiv.org/pdf/2007.03797)                                       | https://t.ly/nGN9 |
 | Communications | 2021 | [Opportunities of Federated Learning in Connected, Cooperative and Automated Industrial Systems](https://arxiv.org/abs/2101.03367)   |
 | ZZZ            | 2021 | [A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://arxiv.org/abs/1907.09693) |
 | ZZZ            | 2021 | [Auto-weighted Robust Federated Learning with Corrupted Data Sources](https://arxiv.org/abs/2101.05880)                              |
@@ -50,9 +50,8 @@ The **Daily Updated** version of [Tencent document](https://docs.qq.com/sheet/DS
 
 ### 01.04 - 01.08
 
-| Accpeted   | Year | Title                                                                                                                                                  | Code              |
-| ---------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
-| AAAI       | 2021 | [Personalized Cross-Silo Federated Learning on Non-IID Data](https://arxiv.org/pdf/2007.03797)                                                         | https://t.ly/nGN9 |
+| Accpeted   | Year | Title                                                                                                                                                  | Code             |
+| ---------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- |
 | AAAI-RSEML | 2021 | [Robust Blockchained Federated Learning with Model Validation and Proof-of-Stake Inspired Consensus](https://arxiv.org/pdf/2101.03300)                 |
 | INFOCOM    | 2021 | [Device Sampling for Heterogeneous Federated Learning: Theory, Algorithms, and Implementation](https://arxiv.org/pdf/2101.00787)                       |
 | NDSS       | 2021 | [POSEIDON: Privacy-Preserving Federated Neural Network Learning](https://arxiv.org/pdf/2009.00349)                                                     |
@@ -72,7 +71,7 @@ The **Daily Updated** version of [Tencent document](https://docs.qq.com/sheet/DS
 | ZZZ        | 2021 | [FLGUARD: Secure and Private Federated Learning](https://arxiv.org/pdf/2101.02281)                                                                     |
 | ZZZ        | 2021 | [Fusion of Federated Learning and Industrial Internet of Things: A Survey](https://arxiv.org/pdf/2101.00798)                                           |
 | ZZZ        | 2021 | [IPLS : A Framework for Decentralized Federated Learning](https://arxiv.org/pdf/2101.01901)                                                            |
-| CVPR-NAS   | 2020 | [Towards Non-I.I.D. and Invisible Data with FedNAS: Federated Deep Learning via Neural Architecture Search](https://arxiv.org/pdf/2004.08546)          | https://fedml.ai  |
+| CVPR-NAS   | 2020 | [Towards Non-I.I.D. and Invisible Data with FedNAS: Federated Deep Learning via Neural Architecture Search](https://arxiv.org/pdf/2004.08546)          | https://fedml.ai |
 | NeurIPS-FL | 2019 | [Real-World Image Datasets for Federated Learning](https://arxiv.org/pdf/1910.11089)                                                                   |
 
 ## 2020
