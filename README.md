@@ -6,7 +6,7 @@ Notes:
 - **ZZZ**, which means a paper has not accepted by any conferences or journals yet, is used for conveniently sorting.
 - The **ReadMe** homepage will only show those papers submitted in **this month**, others will be put into the correspondind hyperlink.
 - The **Accepted Papers** version of [Tencent document](https://docs.qq.com/sheet/DSU9MTG5QWm91SFBh).
-- the [search page](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=federated+learning&terms-0-field=all&classification-physics_archives=all&classification-include_cross_list=include&date-year=2020&date-filter_by=date_range&date-from_date=2021-01-01&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-submitted_date) of arxiv
+- the [Search Page](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=federated+learning&terms-0-field=all&classification-physics_archives=all&classification-include_cross_list=include&date-year=2020&date-filter_by=date_range&date-from_date=2021-01-01&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-submitted_date) of arXiv
 
 
 
@@ -17,10 +17,35 @@ Notes:
 
 ## 2021
 
-### 01.18 - 01.22 `<-This Week`
+### 01.25 - 01.29 `<-This Week`
 
 The **Daily Updated** version of [Tencent document](https://docs.qq.com/sheet/DSXB6Qk9KanBURURR?).
 
+### 01.18 - 01.22
+
+| Accpeted | Year | Title                                                                                                                                                                   | Code |
+| -------- | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| ECIR     | 2021 | [FedeRank: User Controlled Feedback with Federated Recommender Systems](https://arxiv.org/abs/2012.11328)                                                               |
+| ZZZ      | 2021 | [Locally Private Graph Neural Networks](https://arxiv.org/abs/2006.05535)                                                                                               |
+| ZZZ      | 2021 | [Layer-wise Characterization of Latent Information Leakage in Federated Learning](https://arxiv.org/abs/2010.08762)                                                     |
+| ZZZ      | 2021 | [Correlation-aware Cooperative Multigroup Broadcast 360° Video Delivery Network: A Hierarchical Deep Reinforcement Learning Approach](https://arxiv.org/abs/2010.11347) |
+| ZZZ      | 2021 | [Federated Transfer Learning: concept and applications](https://arxiv.org/abs/2010.15561)                                                                               |
+| ZZZ      | 2021 | [Privacy Preservation in Federated Learning: Insights from the GDPR Perspective](https://arxiv.org/abs/2011.05411)                                                      |
+| ZZZ      | 2021 | [Unleashing the Tiger: Inference Attacks on Split Learning](https://arxiv.org/abs/2012.02670)                                                                           |
+| ZZZ      | 2021 | [FLGUARD: Secure and Private Federated Learning](https://arxiv.org/abs/2101.02281)                                                                                      |
+| ZZZ      | 2021 | [Blockchain Assisted Decentralized Federated Learning (BLADE-FL): Performance Analysis and Resource Allocation](https://arxiv.org/abs/2101.06905)                       |
+| ZZZ      | 2021 | [Detection of Insider Attacks in Distributed Projected Subgradient Algorithms](https://arxiv.org/abs/2101.06917)                                                        |
+| ZZZ      | 2021 | [Federated Learning Based Proactive Handover in Millimeter-wave Vehicular Networks](https://arxiv.org/abs/2101.07032)                                                   |
+| ZZZ      | 2021 | [FedNS: Improving Federated Learning for collaborative image classification on mobile clients](https://arxiv.org/abs/2101.07995)                                        |
+| ZZZ      | 2021 | [Rate Region for Indirect Multiterminal Source Coding in Federated Learning](https://arxiv.org/abs/2101.08696)                                                          |
+| ZZZ      | 2021 | [Time-Correlated Sparsification for Communication-Efficient Federated Learning](https://arxiv.org/abs/2101.08837)                                                       |
+| ZZZ      | 2021 | [Vertical federated learning based on DFP and BFGS](https://arxiv.org/abs/2101.09428)                                                                                   |
+| ZZZ      | 2021 | [Incentive Mechanism Design for Federated Learning: Hedonic Game Approach](https://arxiv.org/abs/2101.09673)                                                            |
+| ZZZ      | 2021 | [Federated Intrusion Detection for IoT with Heterogeneous Cohort Privacy](https://arxiv.org/abs/2101.09878)                                                             |
+| ZZZ      | 2021 | [Distillation-Based Semi-Supervised Federated Learning for Communication-Efficient Collaborative Training with Non-IID Private Data](https://arxiv.org/pdf/2008.06180)  |
+| ZZZ      | 2021 | [Robustness of Meta Matrix Factorization Against Strict Privacy Constraints](https://arxiv.org/pdf/2101.06927)                                                          |
+| ZZZ      | 2021 | [Reducing bias and increasing utility by federated generative modeling of medical images using a centralized adversary](https://arxiv.org/pdf/2101.07235)               |
+| ZZZ      | 2021 | [Collaborative Federated Learning For Healthcare: Multi-Modal COVID-19 Diagnosis at the Edge](https://arxiv.org/pdf/2101.07511)                                         |
 
 ### 01.11 - 01.15
 
