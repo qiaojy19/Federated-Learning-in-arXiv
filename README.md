@@ -6,7 +6,7 @@ Notes:
 - **ZZZ**, which means a paper has not accepted by any conferences or journals yet, is used for conveniently sorting.
 - The **ReadMe** homepage will only show those papers submitted in **this month**, others will be put into the correspondind hyperlink.
 - The **Accepted Papers** version of [Tencent document](https://docs.qq.com/sheet/DSU9MTG5QWm91SFBh).
-- the [Search Page](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=federated+learning&terms-0-field=all&classification-physics_archives=all&classification-include_cross_list=include&date-year=2020&date-filter_by=date_range&date-from_date=2021-01-01&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-submitted_date) of arXiv
+- the [Search Page](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=federated+learning&terms-0-field=all&classification-physics_archives=all&classification-include_cross_list=include&date-year=2020&date-filter_by=date_range&date-from_date=2021-02-01&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-submitted_date) of arXiv
 
 
 
@@ -17,9 +17,44 @@ Notes:
 
 ## 2021
 
-### 01.25 - 01.29 `<-This Week`
-
+### 02.01 - 02.05 `<-This Week`
 The **Daily Updated** version of [Tencent document](https://docs.qq.com/sheet/DSXB6Qk9KanBURURR?).
+### 01.25 - 01.29
+| Accpeted  | Year | Title                                                                                                                                                                  | Code                                                             |
+| --------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| AAAI      | 2021 | [Federated Block Coordinate Descent Scheme for Learning Global and Personalized Models](https://arxiv.org/abs/2012.13900)                                              | https://github.com/REIYANG/FedBCD                                |
+| AAAI      | 2021 | [Federated Multi-Armed Bandits](https://arxiv.org/abs/2101.12204)                                                                                                      |
+| AAAI-PPAI | 2021 | [Dopamine: Differentially Private Federated Learning on Medical Data](https://arxiv.org/abs/2101.11693)                                                                |
+| ACC       | 2021 | [Adaptive Scheduling for Machine Learning Tasks over Networks](https://arxiv.org/abs/2101.10007)                                                                       |
+| AISTATS   | 2021 | [On Data Efficiency of Meta-learning](https://arxiv.org/abs/2102.00127)                                                                                                |
+| ICLR      | 2021 | [Achieving Linear Speedup with Partial Worker Participation in Non-IID Federated Learning](https://arxiv.org/abs/2101.11203)                                           |
+| ICLR      | 2021 | [FedBE: Making Bayesian Model Ensemble Applicable to Federated Learning](https://arxiv.org/abs/2009.01974)                                                             |
+| ICLR      | 2021 | [Federated Learning via Posterior Averaging: A New Perspective and Practical Algorithms](https://arxiv.org/abs/2010.05273)                                             | https://github.com/alshedivat/fedpa                              |
+| ICLR      | 2021 | [Federated Learning via Posterior Averaging: A New Perspective and Practical Algorithms](https://arxiv.org/abs/2010.05273)                                             | https://github.com/alshedivat/fedpa                              |
+| ICLR      | 2021 | [Personalized Federated Learning with First Order Model Optimization](https://arxiv.org/abs/2012.08565)                                                                |
+| ZZZ       | 2021 | [Accuracy and Privacy Evaluations of Collaborative Data Analysis](https://arxiv.org/abs/2101.11144)                                                                    |
+| ZZZ       | 2021 | [Artificial Intelligence Driven UAV-NOMA-MEC in Next Generation Wireless Networks](https://arxiv.org/abs/2101.11681)                                                   |
+| ZZZ       | 2021 | [Battery-constrained Federated Edge Learning in UAV-enabled IoT for B5G/6G Networks](https://arxiv.org/abs/2101.12472)                                                 |
+| ZZZ       | 2021 | [Computation-efficient Deep Model Training for Ciphertext-based Cross-silo Federated Learning](https://arxiv.org/abs/2002.09843)                                       |
+| ZZZ       | 2021 | [Covert Model Poisoning Against Federated Learning: Algorithm Design and Optimization](https://arxiv.org/abs/2101.11799)                                               |
+| ZZZ       | 2021 | [Differential Privacy Meets Federated Learning under Communication Constraints](https://arxiv.org/abs/2101.12240)                                                      |
+| ZZZ       | 2021 | [Distributed stochastic gradient MCMC for federated learning](https://arxiv.org/abs/2004.11231)                                                                        |
+| ZZZ       | 2021 | [Edge Federated Learning Via Unit-Modulus Over-The-Air Computation](https://arxiv.org/abs/2101.12051)                                                                  |
+| ZZZ       | 2021 | [Feature Inference Attack on Model Predictions in Vertical Federated Learning](https://arxiv.org/abs/2010.10152)                                                       |
+| ZZZ       | 2021 | [Federated Learning over Wireless Device-to-Device Networks: Algorithms and Convergence Analysis](https://arxiv.org/abs/2101.12704)                                    |
+| ZZZ       | 2021 | [FedH2L: Federated Learning with Model and Statistical Heterogeneity](https://arxiv.org/abs/2101.11296)                                                                |
+| ZZZ       | 2021 | [Free-rider Attacks on Model Aggregation in Federated Learning](https://arxiv.org/abs/2006.11901)                                                                      |
+| ZZZ       | 2021 | [Gain without Pain: Offsetting DP-injected Nosies Stealthily in Cross-device Federated Learning](https://arxiv.org/abs/2102.00404)                                     |
+| ZZZ       | 2021 | [Privacy Preservation in Federated Learning: An insightful survey from the GDPR Perspective](https://arxiv.org/abs/2011.05411)                                         |
+| ZZZ       | 2021 | [Rate Region for Indirect Multiterminal Source Coding in Federated Learning](https://arxiv.org/abs/2101.08696)                                                         |
+| ZZZ       | 2021 | [RTGPU: Real-Time GPU Scheduling of Hard Deadline Parallel Tasks with Fine-Grain Utilization](https://arxiv.org/abs/2101.10463)                                        |
+| ZZZ       | 2021 | [Self-supervised Cross-silo Federated Neural Architecture Search](https://arxiv.org/abs/2101.11896)                                                                    |
+| ZZZ       | 2021 | [Transparent Contribution Evaluation for Secure Federated Learning on Blockchain](https://arxiv.org/abs/2101.10572)                                                    |
+| ZZZ       | 2021 | [Uncertainty Principle for Communication Compression in Distributed and Federated Learning and the Search for an Optimal Compressor](https://arxiv.org/abs/2002.08958) |
+| ZZZ       | 2021 | [Untargeted Poisoning Attack Detection in Federated Learning via Behavior Attestation](https://arxiv.org/abs/2101.10904)                                               |
+| ZZZ       | 2021 | [User-Level Privacy-Preserving Federated Learning: Analysis and Performance Optimization](https://arxiv.org/abs/2003.00229)                                            |
+| EMBC      | 2020 | [Federated Transfer Learning for EEG Signal Classification](https://arxiv.org/abs/2004.12321)                                                                          | https://github.com/DashanGao/Federated-Transfer-Leraning-for-EEG |
+
 
 ### 01.18 - 01.22
 
