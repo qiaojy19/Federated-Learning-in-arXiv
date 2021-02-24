@@ -19,7 +19,53 @@ Notes:
 
 The **Daily Updated** version of [Tencent document](https://docs.qq.com/sheet/DSXB6Qk9KanBURURR?).
 
-### 02.15 - 02.19 `<-This Week`
+### 02.22 - 02.26 `<-This Week`
+
+### 02.15 - 02.19
+
+| Accpeted         | Year | Title                                                                                                                                                      | Code |
+| ---------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| AAAI             | 2021 | [Provably Secure Federated Learning against Malicious Clients](https://arxiv.org/abs/2102.01854)                                                           |
+| ICASSP           | 2021 | [Estimation of Microphone Clusters in Acoustic Sensor Networks using Unsupervised Federated Learning](https://arxiv.org/abs/2102.03109)                    |
+| ICASSP           | 2021 | [Federated Dropout Learning for Hybrid Beamforming With Spatial Path Index Modulation In Multi-User mmWave-MIMO Systems](https://arxiv.org/abs/2102.07450) |
+| ICLR             | 2021 | [FedBN: Federated Learning on Non-IID Features via Local Batch Normalization](https://arxiv.org/abs/2102.07623)                                            |
+| ISBI             | 2021 | [Scaling Neuroscience Research using Federated Learning](https://arxiv.org/abs/2102.08440)                                                                 |
+| Network Magazine | 2021 | [Making a Case for Federated Learning in the Internet of Vehicles and Intelligent Transportation Systems](https://arxiv.org/abs/2102.10142)                |
+| NeurIPS-SpicyFL  | 2020 | [Hybrid Federated Learning: Algorithms and Implementation](https://arxiv.org/abs/2012.12420)                                                               |
+| ZZZ              | 2021 | [A Federated Data-Driven Evolutionary Algorithm](https://arxiv.org/abs/2102.08288)                                                                         |
+| ZZZ              | 2021 | [A first look into the carbon footprint of federated learning](https://arxiv.org/abs/2102.07627)                                                           |
+| ZZZ              | 2021 | [Byzantine-Resilient Secure Federated Learning](https://arxiv.org/abs/2007.11115)                                                                          |
+| ZZZ              | 2021 | [CFLMEC: Cooperative Federated Learning for Mobile Edge Computing](https://arxiv.org/abs/2102.10591)                                                       |
+| ZZZ              | 2021 | [Characterizing Impacts of Heterogeneity in Federated Learning upon Large-Scale Smartphone Data](https://arxiv.org/abs/2006.06983)                         |
+| ZZZ              | 2021 | [CSIT-Free Federated Edge Learning via Reconfigurable Intelligent Surface](https://arxiv.org/abs/2102.10749)                                               |
+| ZZZ              | 2021 | [Data-Aware Device Scheduling for Federated Edge Learning](https://arxiv.org/abs/2102.09491)                                                               |
+| ZZZ              | 2021 | [DESED-FL and URBAN-FL: Federated Learning Datasets for Sound Event Detection](https://arxiv.org/abs/2102.08833)                                           |
+| ZZZ              | 2021 | [DESED-FL and URBAN-FL: Federated Learning Datasets for Sound Event Detection](https://arxiv.org/abs/2102.08833)                                           |
+| ZZZ              | 2021 | [Distributed Saddle-Point Problems: Lower Bounds, Optimal Algorithms and Federated GANs](https://arxiv.org/abs/2010.13112)                                 |
+| ZZZ              | 2021 | [Edge Federated Learning Via Unit-Modulus Over-The-Air Computation](https://arxiv.org/abs/2101.12051)                                                      |
+| ZZZ              | 2021 | [Efficient Reinforcement Learning in Resource Allocation Problems Through Permutation Invariant Multi-task Learning](https://arxiv.org/abs/2102.09361)     |
+| ZZZ              | 2021 | [Faster Non-Convex Federated Learning via Global and Local Momentum](https://arxiv.org/abs/2012.04061)                                                     |
+| ZZZ              | 2021 | [Federated Composite Optimization](https://arxiv.org/abs/2011.08474)                                                                                       |
+| ZZZ              | 2021 | [Federated Evaluation and Tuning for On-Device Personalization: System Design & Applications](https://arxiv.org/abs/2102.08503)                            |
+| ZZZ              | 2021 | [Federated Learning over Wireless Networks: A Band-limited Coordinated Descent Approach](https://arxiv.org/abs/2102.07972)                                 |
+| ZZZ              | 2021 | [Federated Reconstruction: Partially Local Federated Learning](https://arxiv.org/abs/2102.03448)                                                           |
+| ZZZ              | 2021 | [Federated Unlearning](https://arxiv.org/abs/2012.13891)                                                                                                   |
+| ZZZ              | 2021 | [HeteroFL: Computation and Communication Efficient Federated Learning for Heterogeneous Clients](https://arxiv.org/abs/2010.01264)                         |
+| ZZZ              | 2021 | [Hybrid Federated and Centralized Learning](https://arxiv.org/abs/2011.06892)                                                                              |
+| ZZZ              | 2021 | [Label Leakage and Protection in Two-party Split Learning](https://arxiv.org/abs/2102.08504)                                                               |
+| ZZZ              | 2021 | [MARINA: Faster Non-Convex Distributed Learning with Compression](https://arxiv.org/abs/2102.07845)                                                        |
+| ZZZ              | 2021 | [Mobility-Aware Routing and Caching: A Federated Learning Assisted Approach](https://arxiv.org/abs/2102.10743)                                             |
+| ZZZ              | 2021 | [On the Impact of Device and Behavioral Heterogeneity in Federated Learning](https://arxiv.org/abs/2102.07500)                                             |
+| ZZZ              | 2021 | [Personalized Federated Learning: A Unified Framework and Universal Optimization Techniques](https://arxiv.org/abs/2102.09743)                             |
+| ZZZ              | 2021 | [Policy-Based Federated Learning](https://arxiv.org/abs/2003.06612)                                                                                        |
+| ZZZ              | 2021 | [Policy-Based Federated Learning](https://arxiv.org/abs/2003.06612)                                                                                        |
+| ZZZ              | 2021 | [ppAUC: Privacy Preserving Area Under the Curve with Secure 3-Party Computation](https://arxiv.org/abs/2102.08788)                                         |
+| ZZZ              | 2021 | [Privacy-Preserving Wireless Federated Learning Exploiting Inherent Hardware Impairments](https://arxiv.org/abs/2102.10639)                                |
+| ZZZ              | 2021 | [Self-supervised Cross-silo Federated Neural Architecture Search](https://arxiv.org/abs/2101.11896)                                                        |
+| ZZZ              | 2021 | [Turbo-Aggregate: Breaking the Quadratic Aggregation Barrier in Secure](https://arxiv.org/abs/2002.04156)                                                  |
+| ZZZ              | 2021 | [Voting-based Approaches For Differentially Private Federated Learning](https://arxiv.org/abs/2010.04851)                                                  |
+| ZZZ              | 2021 | [WAFFLE: Watermarking in Federated Learning](https://arxiv.org/abs/2008.07298)                                                                             |
+| ZZZ              | 2021 | [When Crowdsensing Meets Federated Learning: Privacy-Preserving Mobile Crowdsensing System](https://arxiv.org/abs/2102.10109)                              |
 ### 02.08 - 02.12
 | Accpeted | Year | Title                                                                                                                                            | Code |
 | -------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ---- |
