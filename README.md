@@ -40,7 +40,6 @@ The **Daily Updated** version of [Tencent document](https://docs.qq.com/sheet/DS
 | ZZZ              | 2021 | [CSIT-Free Federated Edge Learning via Reconfigurable Intelligent Surface](https://arxiv.org/abs/2102.10749)                                               |
 | ZZZ              | 2021 | [Data-Aware Device Scheduling for Federated Edge Learning](https://arxiv.org/abs/2102.09491)                                                               |
 | ZZZ              | 2021 | [DESED-FL and URBAN-FL: Federated Learning Datasets for Sound Event Detection](https://arxiv.org/abs/2102.08833)                                           |
-| ZZZ              | 2021 | [DESED-FL and URBAN-FL: Federated Learning Datasets for Sound Event Detection](https://arxiv.org/abs/2102.08833)                                           |
 | ZZZ              | 2021 | [Distributed Saddle-Point Problems: Lower Bounds, Optimal Algorithms and Federated GANs](https://arxiv.org/abs/2010.13112)                                 |
 | ZZZ              | 2021 | [Edge Federated Learning Via Unit-Modulus Over-The-Air Computation](https://arxiv.org/abs/2101.12051)                                                      |
 | ZZZ              | 2021 | [Efficient Reinforcement Learning in Resource Allocation Problems Through Permutation Invariant Multi-task Learning](https://arxiv.org/abs/2102.09361)     |
@@ -57,7 +56,6 @@ The **Daily Updated** version of [Tencent document](https://docs.qq.com/sheet/DS
 | ZZZ              | 2021 | [Mobility-Aware Routing and Caching: A Federated Learning Assisted Approach](https://arxiv.org/abs/2102.10743)                                             |
 | ZZZ              | 2021 | [On the Impact of Device and Behavioral Heterogeneity in Federated Learning](https://arxiv.org/abs/2102.07500)                                             |
 | ZZZ              | 2021 | [Personalized Federated Learning: A Unified Framework and Universal Optimization Techniques](https://arxiv.org/abs/2102.09743)                             |
-| ZZZ              | 2021 | [Policy-Based Federated Learning](https://arxiv.org/abs/2003.06612)                                                                                        |
 | ZZZ              | 2021 | [Policy-Based Federated Learning](https://arxiv.org/abs/2003.06612)                                                                                        |
 | ZZZ              | 2021 | [ppAUC: Privacy Preserving Area Under the Curve with Secure 3-Party Computation](https://arxiv.org/abs/2102.08788)                                         |
 | ZZZ              | 2021 | [Privacy-Preserving Wireless Federated Learning Exploiting Inherent Hardware Impairments](https://arxiv.org/abs/2102.10639)                                |
