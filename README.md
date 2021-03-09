@@ -1,6 +1,6 @@
 # Federated Learning Weekly
 
-This repository gathers federated learning papers submitted to [arXiv]((https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=federated+learning&terms-0-field=all&classification-physics_archives=all&classification-include_cross_list=include&date-year=2020&date-filter_by=date_range&date-from_date=2021-02-01&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-submitted_date)) every week.
+This repository gathers federated learning papers submitted to [arXiv](https://arxiv.org/search/advanced?advanced=&terms-0-operator=AND&terms-0-term=federated+learning&terms-0-field=all&classification-physics_archives=all&classification-include_cross_list=include&date-year=2020&date-filter_by=date_range&date-from_date=2021-02-01&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-submitted_date) every week.
 
 Notes:
 - **ZZZ**, which means a paper has not accepted by any conference or journal yet, is used for sorting.
