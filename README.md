@@ -19,7 +19,28 @@ The **Latest** version of [Tencent document](https://docs.qq.com/sheet/DSXB6Qk9K
 - [Jan](2021/01.md)
 
 
-### 03.15 - 03.19 `<-This Week`
+### 03.22 - 03.26 `<-This Week`
+### 03.15 - 03.19
+| Accpeted | Year | Title                                                                                                                                               | Code |
+| -------- | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| AAAI     | 2021 | [FLAME: Differentially Private Federated Learning in the Shuffle Model](https://arxiv.org/abs/2009.08063)                                           |
+| ICC      | 2021 | [Sample-based Federated Learning via Mini-batch SSCA](https://arxiv.org/abs/2103.09506)                                                             |
+| ICLR     | 2021 | [CaPC Learning: Confidential and Private Collaborative Learning](https://arxiv.org/abs/2102.05188)                                                  |
+| VT       | 2021 | [UAV Communications for Sustainable Federated Learning](https://arxiv.org/abs/2103.11073)                                                           |
+| zzz      | 2021 | [A Framework for Energy and Carbon Footprint Analysis of Distributed and Federated Edge Learning](https://arxiv.org/abs/2103.10346)                 |
+| zzz      | 2021 | [An Experiment Study on Federated LearningTestbed](https://arxiv.org/abs/2103.10579)                                                                |
+| zzz      | 2021 | [Bias-Free FedGAN](https://arxiv.org/abs/2103.09876)                                                                                                |
+| zzz      | 2021 | [Blind Federated Learning at the Wireless Edge with Low-Resolution ADC and DAC](https://arxiv.org/abs/2010.00350)                                   |
+| zzz      | 2021 | [Demystifying the Effects of Non-Independence in Federated Learning](https://arxiv.org/abs/2103.11226)                                              |
+| zzz      | 2021 | [Privacy Preservation in Federated Learning: An insightful survey from the GDPR Perspective](https://arxiv.org/abs/2011.05411)                      |
+| zzz      | 2021 | [QoS-Constrained Federated Learning Empowered by Intelligent Reflecting Surface](https://arxiv.org/abs/2103.11551)                                  |
+| zzz      | 2021 | [Reconfigurable Intelligent Surface Enabled Federated Learning: A Unified Communication-Learning Design Approach](https://arxiv.org/abs/2011.10282) |
+| zzz      | 2021 | [R-GAP: Recursive Gradient Attack on Privacy](https://arxiv.org/abs/2010.07733)                                                                     |
+| zzz      | 2021 | [Server Averaging for Federated Learning](https://arxiv.org/abs/2103.11619)                                                                         |
+| zzz      | 2021 | [TAG: Transformer Attack from Gradient](https://arxiv.org/abs/2103.06819)                                                                           |
+| zzz      | 2021 | [Toward Robustness and Privacy in Federated Learning: Experimenting with Local and Central Differential Privacy](https://arxiv.org/abs/2009.03561)  |
+| zzz      | 2021 | [Two Timescale Hybrid Federated Learning with Cooperative D2D Local Model Aggregations](https://arxiv.org/abs/2103.10481)                           |
+| NeurIPS  | 2020 | [GS-WGAN: A Gradient-Sanitized Approach for Learning Differentially Private Generators](https://arxiv.org/abs/2006.08265)                           |
 ### 03.08 - 03.12
 
 | Accpeted | Year | Title                                                                                                                                                                               | Code |
