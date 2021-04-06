@@ -19,7 +19,64 @@ The **Latest** version of [Tencent document](https://docs.qq.com/sheet/DSXB6Qk9K
 - [Jan](2021/01.md)
 
 
-### 03.22 - 03.26 `<-This Week`
+### 04.05 - 04.09 `<-This Week`
+
+TBD
+
+### 03.29 - 04.02
+| Accpeted | Year | Title                                                                                                                                                           | Code |
+| -------- | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| zzz      | 2021 | [1-Bit Compressive Sensing for Efficient Federated Learning Over the Air](https://arxiv.org/abs/2103.16055)                                                     |
+| zzz      | 2021 | [A Federated Learning Framework for Non-Intrusive Load Monitoring](https://arxiv.org/abs/2104.01618)                                                            |
+| zzz      | 2021 | [A Federated Learning Framework for Smart Grids: Securing Power Traces in Collaborative Learning](https://arxiv.org/abs/2103.11870)                             |
+| zzz      | 2021 | [An Empirical Evaluation of Cost-based Federated SPARQL Query Processing Engines](https://arxiv.org/abs/2104.00984)                                             |
+| zzz      | 2021 | [An On-Device Federated Learning Approach for Cooperative Anomaly Detection](https://arxiv.org/abs/2002.12301)                                                  |
+| zzz      | 2021 | [Auto-weighted Robust Federated Learning with Corrupted Data Sources](https://arxiv.org/abs/2101.05880)                                                         |
+| zzz      | 2021 | [Certifiably-Robust Federated Adversarial Learning via Randomized Smoothing](https://arxiv.org/abs/2103.16031)                                                  |
+| zzz      | 2021 | [Decentralized and Model-Free Federated Learning: Consensus-Based Distillation in Function Space](https://arxiv.org/abs/2104.00352)                             |
+| zzz      | 2021 | [Delay Analysis of Wireless Federated Learning Based on Saddle Point Approximation and Large Deviation Theory](https://arxiv.org/abs/2103.16994)                |
+| zzz      | 2021 | [Demonstrating Analog Inference on the BrainScaleS-2 Mobile System](https://arxiv.org/abs/2103.15960)                                                           |
+| zzz      | 2021 | [Fast-adapting and Privacy-preserving Federated Recommender System](https://arxiv.org/abs/2104.00919)                                                           |
+| zzz      | 2021 | [Federated Few-Shot Learning with Adversarial Learning](https://arxiv.org/abs/2104.00365)                                                                       |
+| zzz      | 2021 | [Federated Generalized Bayesian Learning via Distributed Stein Variational Gradient Descent](https://arxiv.org/abs/2009.06419)                                  |
+| zzz      | 2021 | [Federated Learning with Taskonomy for Non-IID Data](https://arxiv.org/abs/2103.15947)                                                                          |
+| zzz      | 2021 | [Federated Learning: A Signal Processing Perspective](https://arxiv.org/abs/2103.17150)                                                                         |
+| zzz      | 2021 | [Federated Semi-Supervised Learning with Inter-Client Consistency & Disjoint Learning](https://arxiv.org/abs/2006.12097)                                        |
+| zzz      | 2021 | [FedMood:Federated Learning on Mobile Health Data for Mood Detection](https://arxiv.org/abs/2102.09342)                                                         |
+| zzz      | 2021 | [Intelligent Radio Signal Processing: A Survey](https://arxiv.org/abs/2008.08264)                                                                               |
+| zzz      | 2021 | [Learning Rate Optimization for Federated Learning Exploiting Over-the-air Computation](https://arxiv.org/abs/2102.02946)                                       |
+| zzz      | 2021 | [Model-Contrastive Federated Learning](https://arxiv.org/abs/2103.16257)                                                                                        |
+| zzz      | 2021 | [On the Convergence Time of Federated Learning Over Wireless Networks Under Imperfect CSI](https://arxiv.org/abs/2104.00331)                                    |
+| zzz      | 2021 | [Privacy and Trust Redefined in Federated Machine Learning](https://arxiv.org/abs/2103.15753)                                                                   |
+| zzz      | 2021 | [PyVertical: A Vertical Federated Learning Framework for Multi-headed SplitNN](https://arxiv.org/abs/2104.00489)                                                |
+| zzz      | 2021 | [SecureBoost: A Lossless Federated Learning Framework](https://arxiv.org/abs/1901.08755)                                                                        |
+| zzz      | 2021 | [Semi-supervised Federated Learning for Activity Recognition](https://arxiv.org/abs/2011.00851)                                                                 |
+| zzz      | 2021 | [Towards open and expandable cognitive AI architectures for large-scale multi-agent human-robot collaborative learning](https://arxiv.org/abs/2012.08174)       |
+| zzz      | 2021 | [User profile-driven large-scale multi-agent learning from demonstration in federated human-robot collaborative environments](https://arxiv.org/abs/2103.16434) |
+
+### 03.22 - 03.26
+| Accpeted | Year | Title                                                                                                                                                 | Code |
+| -------- | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| zzz      | 2021 | [Convergence Time Optimization for Federated Learning over Wireless Networks](https://arxiv.org/abs/2001.07845)                                       |
+| zzz      | 2021 | [Ensemble Distillation for Robust Model Fusion in Federated Learning](https://arxiv.org/abs/2006.07242)                                               |
+| zzz      | 2021 | [Quality Inference in Federated Learning with Secure Aggregation](https://arxiv.org/abs/2007.06236)                                                   |
+| zzz      | 2021 | [Flower: A Friendly Federated Learning Research Framework](https://arxiv.org/abs/2007.14390)                                                          |
+| zzz      | 2021 | [X-Secure T-Private Federated Submodel Learning with Elastic Dropout Resilience](https://arxiv.org/abs/2010.01059)                                    |
+| zzz      | 2021 | [Minimal conditions analysis of gradient-based reconstruction in Federated Learning](https://arxiv.org/abs/2010.15718)                                |
+| zzz      | 2021 | [FedRec: Federated Learning of Universal Receivers over Fading Channels](https://arxiv.org/abs/2011.07271)                                            |
+| zzz      | 2021 | [Personalized Federated Learning with First Order Model Optimization](https://arxiv.org/abs/2012.08565)                                               |
+| zzz      | 2021 | [Differentially Private Federated Learning for Cancer Prediction](https://arxiv.org/abs/2101.02997)                                                   |
+| zzz      | 2021 | [Federated Reconstruction: Partially Local Federated Learning](https://arxiv.org/abs/2102.03448)                                                      |
+| zzz      | 2021 | [A Federated Learning Framework in Smart Grid: Securing Power Traces in Collaborative Learning](https://arxiv.org/abs/2103.11870)                     |
+| zzz      | 2021 | [Real-time End-to-End Federated Learning: An Automotive Case Study](https://arxiv.org/abs/2103.11879)                                                 |
+| zzz      | 2021 | [Federated Quantum Machine Learning](https://arxiv.org/abs/2103.12010)                                                                                |
+| zzz      | 2021 | [The Gradient Convergence Bound of Federated Multi-Agent Reinforcement Learning with Efficient Communication](https://arxiv.org/abs/2103.13026)       |
+| zzz      | 2021 | [Opportunistic Federated Learning: An Exploration of Egocentric Collaboration for Pervasive Computing Applications](https://arxiv.org/abs/2103.13266) |
+| zzz      | 2021 | [Benchmarking Modern Named Entity Recognition Techniques for Free-text Health Record De-identification](https://arxiv.org/abs/2103.13546)             |
+| zzz      | 2021 | [FedGP: Correlation-Based Active Client Selection for Heterogeneous Federated Learning](https://arxiv.org/abs/2103.13822)                             |
+| zzz      | 2021 | [Hierarchical Quantized Federated Learning: Convergence Analysis and System Design](https://arxiv.org/abs/2103.14272)                                 |
+| zzz      | 2021 | [Prior-Free Auctions for the Demand Side of Federated Learning](https://arxiv.org/abs/2103.14375)                                                     |
+
 ### 03.15 - 03.19
 | Accpeted | Year | Title                                                                                                                                               | Code |
 | -------- | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
