@@ -22,7 +22,9 @@ The **Latest** version of [Tencent document](https://docs.qq.com/sheet/DSXB6Qk9K
 
 ### 04.12 - 04.16 `<-This Week`
 
-TBD
+
+| Accpeted | Year | Title | Code |
+| -------- | ---- | ----- | ---- |
 
 ### 04.05 - 04.09
 
@@ -33,13 +35,16 @@ TBD
 | IoT      | 2021 | [Federated Learning Meets Blockchain in Edge Computing: Opportunities and Challenges](https://arxiv.org/abs/2104.01776)                                |
 | zzz      | 2021 | [Accelerated Gradient Tracking over Time-varying Graphs for Decentralized Optimization](https://arxiv.org/abs/2104.02596)                              |
 | zzz      | 2021 | [Bayesian Variational Federated Learning and Unlearning in Decentralized Networks](https://arxiv.org/abs/2104.03834)                                   |
+| zzz      | 2021 | [Bayesian Variational Federated Learning and Unlearning in Decentralized Networks](https://arxiv.org/abs/2104.03834)                                   |
 | zzz      | 2021 | [Can Federated Learning Save The Planet?](https://arxiv.org/abs/2010.06537)                                                                            |
 | zzz      | 2021 | [Communication-Efficient Agnostic Federated Averaging](https://arxiv.org/abs/2104.02748)                                                               |
 | zzz      | 2021 | [Distributed Learning in Wireless Networks: Recent Progress and Future Challenges](https://arxiv.org/abs/2104.02151)                                   |
 | zzz      | 2021 | [Empowering Prosumer Communities in Smart Grid with Wireless Communications and Federated Edge Learning](https://arxiv.org/abs/2104.03169)             |
 | zzz      | 2021 | [Fast-adapting and Privacy-preserving Federated Recommender System](https://arxiv.org/abs/2104.00919)                                                  |
+| zzz      | 2021 | [Fast-adapting and Privacy-preserving Federated Recommender System](https://arxiv.org/abs/2104.00919)                                                  |
 | zzz      | 2021 | [Fast-Convergent Federated Learning with Adaptive Weighting](https://arxiv.org/abs/2012.00661)                                                         |
 | zzz      | 2021 | [Federated Bandit: A Gossiping Approach](https://arxiv.org/abs/2010.12763)                                                                             |
+| zzz      | 2021 | [FedFace: Collaborative Learning of Face Recognition Model](https://arxiv.org/abs/2104.03008)                                                          |
 | zzz      | 2021 | [FedFace: Collaborative Learning of Face Recognition Model](https://arxiv.org/abs/2104.03008)                                                          |
 | zzz      | 2021 | [FedGroup: Efficient Clustered Federated Learning via Decomposed Data-Driven Measure](https://arxiv.org/abs/2010.06870)                                |
 | zzz      | 2021 | [FedMood: Federated Learning on Mobile Health Data for Mood Detection](https://arxiv.org/abs/2102.09342)                                               |
