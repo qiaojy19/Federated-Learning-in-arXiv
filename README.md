@@ -20,10 +20,32 @@ The **Latest** version of [Tencent document](https://docs.qq.com/sheet/DSXB6Qk9K
 - [Jan](2021/01.md)
 
 
-### 04.19 - 04.23 `<-This Week`
+### 04.26 - 04.30 `<-This Week`
 | Accpeted | Year | Title | Code |
 | -------- | ---- | ----- | ---- |
 
+### 04.19 - 04.23
+| Accpeted         | Year | Title                                                                                                                                                    | Code |
+| ---------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| AI4CS            | 2021 | [Leveraging Sharing Communities to Achieve Federated Learning for Cybersecurity](https://arxiv.org/abs/2104.11763)                                       |
+| ICLR-DPML        | 2021 | [Practical Defences Against Model Inversion Attacks for Split Neural Networks](https://arxiv.org/abs/2104.05743)                                         |
+| ICLR-DPML        | 2021 | [Gradient Masked Federated Optimization](https://arxiv.org/abs/2104.10322)                                                                               |
+| Network Magazine | 2021 | [Preventing and Controlling Epidemics through Blockchain-Assisted AI-Enabled Networks](https://arxiv.org/abs/2104.13224)                                 |
+| zzz              | 2021 | [Personalized Semi-Supervised Federated Learning for Human Activity Recognition](https://arxiv.org/abs/2104.08094)                                       |
+| zzz              | 2021 | [Research on Resource Allocation for Efficient Federated Learning](https://arxiv.org/abs/2104.09177)                                                     |
+| zzz              | 2021 | [An Android App for Digital Transport Cards of Smart City: Request for Suggestions](https://arxiv.org/abs/2104.09245)                                    |
+| zzz              | 2021 | [An Overview of Federated Learning at the Edge and Distributed Ledger Technologies for Robotic and Autonomous Systems](https://arxiv.org/abs/2104.10141) |
+| zzz              | 2021 | [Auto-FedAvg: Learnable Federated Averaging for Multi-Institutional Medical Image Segmentation](https://arxiv.org/abs/2104.10195)                        |
+| zzz              | 2021 | [Federated Traffic Synthesizing and Classification Using Generative Adversarial Networks](https://arxiv.org/abs/2104.10400)                              |
+| zzz              | 2021 | [A Survey on Federated Learning and its Applications for Accelerating Industrial Internet of Things](https://arxiv.org/abs/2104.10501)                   |
+| zzz              | 2021 | [Covert Channel Attack to Federated Learning Systems](https://arxiv.org/abs/2104.10561)                                                                  |
+| zzz              | 2021 | [Privacy-Preserved Blockchain-Federated-Learning for Medical Image Analysis Towards Multiple Parties](https://arxiv.org/abs/2104.10903)                  |
+| zzz              | 2021 | [Decentralized Federated Averaging](https://arxiv.org/abs/2104.11375)                                                                                    |
+| zzz              | 2021 | [A study on Ensemble Learning for Time Series Forecasting and the need for Meta-Learning](https://arxiv.org/abs/2104.11475)                              |
+| zzz              | 2021 | [Robust Federated Learning by Mixture of Experts](https://arxiv.org/abs/2104.11700)                                                                      |
+| zzz              | 2021 | [Wireless Federated Learning (WFL) for 6G Networks -- Part II: The Compute-then-Transmit NOMA Paradigm](https://arxiv.org/abs/2104.12005)                |
+| zzz              | 2021 | [FedSup: A Communication-Efficient Federated Learning Fatigue Driving Behaviors Supervision Framework](https://arxiv.org/abs/2104.12086)                 |
+| zzz              | 2021 | [Identifying tax evasion in Mexico with tools from network science and machine learning](https://arxiv.org/abs/2104.13353)                               |
 ### 04.12 - 04.16
 
 
