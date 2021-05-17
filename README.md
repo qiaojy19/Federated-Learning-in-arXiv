@@ -21,10 +21,27 @@ The **Latest** version of [Tencent document](https://docs.qq.com/sheet/DSXB6Qk9K
 - [Jan](2021/01.md)
 
 
-### 05.10 - 05.14 `<-This Week`
-| Accpeted   | Year | Title                                                                                                                                                   | Code |
-| ---------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
-
+### 05.17 - 05.21 `<-This Week`
+| Accpeted | Year | Title | Code |
+| -------- | ---- | ----- | ---- |
+### 05.10 - 05.14
+| Accpeted | Year | Title                                                                                                                                          | Code |
+| -------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| ICASSP   | 2021 | [DP-SIGNSGD: When Efficiency Meets Privacy and Robustness](https://arxiv.org/abs/2105.04808)                                                   |
+| ICML     | 2021 | [FL-NTK: A Neural Tangent Kernel-based Framework for Federated Learning Convergence Analysis](https://arxiv.org/abs/2105.05001)                |
+| JSAC     | 2021 | [Slashing Communication Traffic in Federated Learning by Transmitting Clustered Model Updates](https://arxiv.org/abs/2105.04153)               |
+| zzz      | 2021 | [An Efficient Learning Framework For Federated XGBoost Using Secret Sharing And Distributed Optimization](https://arxiv.org/abs/2105.05717)    |
+| zzz      | 2021 | [Clustered Sampling: Low-Variance and Improved Representativity for Clients Selection in Federated Learning](https://arxiv.org/abs/2105.05883) |
+| zzz      | 2021 | [Federated Learning with Unreliable Clients: Performance Analysis and Mechanism Design](https://arxiv.org/abs/2105.06256)                      |
+| zzz      | 2021 | [Federated Unbiased Learning to Rank](https://arxiv.org/abs/2105.04761)                                                                        |
+| zzz      | 2021 | [From Distributed Machine Learning to Federated Learning: A Survey](https://arxiv.org/abs/2104.14362)                                          |
+| zzz      | 2021 | [OpenFL: An open-source framework for Federated Learning](https://arxiv.org/abs/2105.06413)                                                    |
+| zzz      | 2021 | [Privacy-preserving Logistic Regression with Secret Sharing](https://arxiv.org/abs/2105.06869)                                                 |
+| zzz      | 2021 | [Separate but Together: Unsupervised Federated Learning for Speech Enhancement from Non-IID Data](https://arxiv.org/abs/2105.04727)            |
+| zzz      | 2021 | [Stronger Privacy for Federated Collaborative Filtering with Implicit Feedback](https://arxiv.org/abs/2105.03941)                              |
+| zzz      | 2021 | [The FeatureCloud AI Store for Federated Learning in Biomedicine and Beyond](https://arxiv.org/abs/2105.05734)                                 |
+| zzz      | 2021 | [The Federated Tumor Segmentation (FeTS) Challenge](https://arxiv.org/abs/2105.05874)                                                          |
+| zzz      | 2021 | [Towards Practical Watermark for Deep Neural Networks in Federated Learning](https://arxiv.org/abs/2105.03167)                                 |
 ### 05.03 - 05.07
 | Accpeted   | Year | Title                                                                                                                                                   | Code |
 | ---------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
