@@ -35,7 +35,9 @@ The **Latest** version of [Tencent document](https://docs.qq.com/sheet/DSXB6Qk9K
 | zzz      | 2021 | [Federated Learning with Unreliable Clients: Performance Analysis and Mechanism Design](https://arxiv.org/abs/2105.06256)                      |
 | zzz      | 2021 | [Federated Unbiased Learning to Rank](https://arxiv.org/abs/2105.04761)                                                                        |
 | zzz      | 2021 | [From Distributed Machine Learning to Federated Learning: A Survey](https://arxiv.org/abs/2104.14362)                                          |
+| zzz      | 2021 | [Node Selection Toward Faster Convergence for Federated Learning on Non-IID Data](https://arxiv.org/abs/2105.07066)                            |
 | zzz      | 2021 | [OpenFL: An open-source framework for Federated Learning](https://arxiv.org/abs/2105.06413)                                                    |
+| zzz      | 2021 | [Privacy-Preserving Constrained Domain Generalization for Medical Image Classification](https://arxiv.org/abs/2105.08511)                      |
 | zzz      | 2021 | [Privacy-preserving Logistic Regression with Secret Sharing](https://arxiv.org/abs/2105.06869)                                                 |
 | zzz      | 2021 | [Separate but Together: Unsupervised Federated Learning for Speech Enhancement from Non-IID Data](https://arxiv.org/abs/2105.04727)            |
 | zzz      | 2021 | [Stronger Privacy for Federated Collaborative Filtering with Implicit Feedback](https://arxiv.org/abs/2105.03941)                              |
