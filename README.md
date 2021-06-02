@@ -21,9 +21,25 @@ The **Latest** version of [Tencent document](https://docs.qq.com/sheet/DSXB6Qk9K
 - [Jan](2021/01.md)
 
 
-### 05.24 - 05.28 `<-This Week`
-| Accpeted | Year | Title                                                                                                                                                       | Code |
-| -------- | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+### 05.31 - 06.04 `<-This Week`
+| Accpeted | Year | Title | Code |
+| -------- | ---- | ----- | ---- |
+### 05.24 - 05.28
+| Accpeted | Year | Title                                                                                                                                | Code |
+| -------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------ | ---- |
+| zzz      | 2021 | [A Federated Learning Framework for Nonconvex-PL Minimax Problems](https://arxiv.org/abs/2105.14216)                                 |
+| zzz      | 2021 | [Accelerated Gradient Tracking over Time-varying Graphs for Decentralized Optimization](https://arxiv.org/abs/2104.02596)            |
+| zzz      | 2021 | [Concept drift detection and adaptation for federated and continual learning](https://arxiv.org/abs/2105.13309)                      |
+| zzz      | 2021 | [Designing ECG Monitoring Healthcare System with Federated Transfer Learning and Explainable AI](https://arxiv.org/abs/2105.12497)   |
+| zzz      | 2021 | [Federated Graph Learning -- A Position Paper](https://arxiv.org/abs/2105.11099)                                                     |
+| zzz      | 2021 | [Federated Learning for Industrial Internet of Things in Future Industries](https://arxiv.org/abs/2105.14659)                        |
+| zzz      | 2021 | [Federated Learning for Short-term Residential Energy Demand Forecasting](https://arxiv.org/abs/2105.13325)                          |
+| zzz      | 2021 | [Fed-NILM: A Federated Learning-based Non-Intrusive Load Monitoring Method for Privacy-Protection](https://arxiv.org/abs/2105.11085) |
+| zzz      | 2021 | [FedScale: Benchmarking Model and System Performance of Federated Learning](https://arxiv.org/abs/2105.11367)                        |
+| zzz      | 2021 | [Networked Federated Multi-Task Learning](https://arxiv.org/abs/2105.12769)                                                          |
+| zzz      | 2021 | [PPT: A Privacy-Preserving Global Model Training Protocol for Federated Learning in P2P Networks](https://arxiv.org/abs/2105.14408)  |
+| zzz      | 2021 | [Quantum Federated Learning with Quantum Data](https://arxiv.org/abs/2106.00005)                                                     |
+| zzz      | 2021 | [Towards a Federated Learning Framework for Heterogeneous Devices of Internet of Things](https://arxiv.org/abs/2105.14675)           |
 
 ### 05.17 - 05.21
 | Accpeted | Year | Title                                                                                                                                                       | Code |
