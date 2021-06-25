@@ -15,96 +15,92 @@ Notes:
 ## 2021
 The **Latest** version of [Tencent document](https://docs.qq.com/sheet/DSXB6Qk9KanBURURR?).
 
+- [May](2021/05.md)
 - [Apr](2021/04.md)
 - [Mar](2021/03.md)
 - [Feb](2021/02.md)
 - [Jan](2021/01.md)
 
 
-### 05.31 - 06.04 `<-This Week`
+
+### 06.21 - 06.25 << this week
 | Accpeted | Year | Title | Code |
 | -------- | ---- | ----- | ---- |
-### 05.24 - 05.28
-| Accpeted | Year | Title                                                                                                                                | Code |
-| -------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------ | ---- |
-| zzz      | 2021 | [A Federated Learning Framework for Nonconvex-PL Minimax Problems](https://arxiv.org/abs/2105.14216)                                 |
-| zzz      | 2021 | [Accelerated Gradient Tracking over Time-varying Graphs for Decentralized Optimization](https://arxiv.org/abs/2104.02596)            |
-| zzz      | 2021 | [Concept drift detection and adaptation for federated and continual learning](https://arxiv.org/abs/2105.13309)                      |
-| zzz      | 2021 | [Designing ECG Monitoring Healthcare System with Federated Transfer Learning and Explainable AI](https://arxiv.org/abs/2105.12497)   |
-| zzz      | 2021 | [Federated Graph Learning -- A Position Paper](https://arxiv.org/abs/2105.11099)                                                     |
-| zzz      | 2021 | [Federated Learning for Industrial Internet of Things in Future Industries](https://arxiv.org/abs/2105.14659)                        |
-| zzz      | 2021 | [Federated Learning for Short-term Residential Energy Demand Forecasting](https://arxiv.org/abs/2105.13325)                          |
-| zzz      | 2021 | [Fed-NILM: A Federated Learning-based Non-Intrusive Load Monitoring Method for Privacy-Protection](https://arxiv.org/abs/2105.11085) |
-| zzz      | 2021 | [FedScale: Benchmarking Model and System Performance of Federated Learning](https://arxiv.org/abs/2105.11367)                        |
-| zzz      | 2021 | [Networked Federated Multi-Task Learning](https://arxiv.org/abs/2105.12769)                                                          |
-| zzz      | 2021 | [PPT: A Privacy-Preserving Global Model Training Protocol for Federated Learning in P2P Networks](https://arxiv.org/abs/2105.14408)  |
-| zzz      | 2021 | [Quantum Federated Learning with Quantum Data](https://arxiv.org/abs/2106.00005)                                                     |
-| zzz      | 2021 | [Towards a Federated Learning Framework for Heterogeneous Devices of Internet of Things](https://arxiv.org/abs/2105.14675)           |
 
-### 05.17 - 05.21
-| Accpeted | Year | Title                                                                                                                                                       | Code |
-| -------- | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
-| EASE     | 2021 | [DID-eFed: Facilitating Federated Learning as a Service with Decentralized Identities](https://arxiv.org/abs/2105.08671)                                    |
-| IC       | 2021 | [Fast Federated Learning by Balancing Communication Trade-Offs](https://arxiv.org/abs/2105.11028)                                                           |
-| ICC      | 2021 | [Byzantine-Resilient Federated Machine Learning via Over-the-Air Computation](https://arxiv.org/abs/2105.10883)                                             |
-| IJCAI    | 2021 | [Federated Learning with Fair Averaging](https://arxiv.org/abs/2104.14937)                                                                                  |
-| zzz      | 2021 | [A Dispersed Federated Learning Framework for 6G-Enabled Autonomous Driving Cars](https://arxiv.org/abs/2105.09641)                                         |
-| zzz      | 2021 | [A Privacy-Preserving Approach to Extraction of Personal Information through Automatic Annotation and Federated Learning](https://arxiv.org/abs/2105.09198) |
-| zzz      | 2021 | [Adaptive ABAC Policy Learning: A Reinforcement Learning Approach](https://arxiv.org/abs/2105.08587)                                                        |
-| zzz      | 2021 | [Business analytics meets artificial intelligence: Assessing the demand effects of discounts on Swiss train tickets](https://arxiv.org/abs/2105.01426)      |
-| zzz      | 2021 | [Clustered Sampling: Low-Variance and Improved Representativity for Clients Selection in Federated Learning](https://arxiv.org/abs/2105.05883)              |
-| zzz      | 2021 | [Data-Free Knowledge Distillation for Heterogeneous Federated Learning](https://arxiv.org/abs/2105.10056)                                                   |
-| zzz      | 2021 | [Denoising Noisy Neural Networks: A Bayesian Approach with Compensation](https://arxiv.org/abs/2105.10699)                                                  |
-| zzz      | 2021 | [DRIVE: One-bit Distributed Mean Estimation](https://arxiv.org/abs/2105.08339)                                                                              |
-| zzz      | 2021 | [EasyFL: A Low-code Federated Learning Platform For Dummies](https://arxiv.org/abs/2105.07603)                                                              |
-| zzz      | 2021 | [Fed-EINI: An Efficient and Interpretable Inference Framework for Decision Tree Ensembles in Federated Learning](https://arxiv.org/abs/2105.09540)          |
-| zzz      | 2021 | [Federated Knowledge Graphs Embedding](https://arxiv.org/abs/2105.07615)                                                                                    |
-| zzz      | 2021 | [Federated Learning With Highly Imbalanced Audio Data](https://arxiv.org/abs/2105.08550)                                                                    |
-| zzz      | 2021 | [Federated Singular Vector Decomposition](https://arxiv.org/abs/2105.08925)                                                                                 |
-| zzz      | 2021 | [HyFed: A Hybrid Federated Framework for Privacy-preserving Machine Learning](https://arxiv.org/abs/2105.10545)                                             |
-| zzz      | 2021 | [Private Hierarchical Clustering in Federated Networks](https://arxiv.org/abs/2105.09057)                                                                   |
-| zzz      | 2021 | [Prototype Guided Federated Learning of Visual Feature Representations](https://arxiv.org/abs/2105.08982)                                                   |
-| zzz      | 2021 | [Semi-Decentralized Federated Edge Learning for Fast Convergence on Non-IID Data](https://arxiv.org/abs/2104.12678)                                         |
-| zzz      | 2021 | [Separation of Powers in Federated Learning](https://arxiv.org/abs/2105.09400)                                                                              |
-| zzz      | 2021 | [Towards Unsupervised Domain Adaptation for Deep Face Recognition under Privacy Constraints via Federated Learning](https://arxiv.org/abs/2105.07606)       |
-| zzz      | 2021 | [User Label Leakage from Gradients in Federated Learning](https://arxiv.org/abs/2105.09369)                                                                 |
-### 05.10 - 05.14
-| Accpeted | Year | Title                                                                                                                                          | Code |
-| -------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
-| ICASSP   | 2021 | [DP-SIGNSGD: When Efficiency Meets Privacy and Robustness](https://arxiv.org/abs/2105.04808)                                                   |
-| ICML     | 2021 | [FL-NTK: A Neural Tangent Kernel-based Framework for Federated Learning Convergence Analysis](https://arxiv.org/abs/2105.05001)                |
-| JSAC     | 2021 | [Slashing Communication Traffic in Federated Learning by Transmitting Clustered Model Updates](https://arxiv.org/abs/2105.04153)               |
-| zzz      | 2021 | [An Efficient Learning Framework For Federated XGBoost Using Secret Sharing And Distributed Optimization](https://arxiv.org/abs/2105.05717)    |
-| zzz      | 2021 | [Clustered Sampling: Low-Variance and Improved Representativity for Clients Selection in Federated Learning](https://arxiv.org/abs/2105.05883) |
-| zzz      | 2021 | [Federated Learning with Unreliable Clients: Performance Analysis and Mechanism Design](https://arxiv.org/abs/2105.06256)                      |
-| zzz      | 2021 | [Federated Unbiased Learning to Rank](https://arxiv.org/abs/2105.04761)                                                                        |
-| zzz      | 2021 | [From Distributed Machine Learning to Federated Learning: A Survey](https://arxiv.org/abs/2104.14362)                                          |
-| zzz      | 2021 | [Node Selection Toward Faster Convergence for Federated Learning on Non-IID Data](https://arxiv.org/abs/2105.07066)                            |
-| zzz      | 2021 | [OpenFL: An open-source framework for Federated Learning](https://arxiv.org/abs/2105.06413)                                                    |
-| zzz      | 2021 | [Privacy-Preserving Constrained Domain Generalization for Medical Image Classification](https://arxiv.org/abs/2105.08511)                      |
-| zzz      | 2021 | [Privacy-preserving Logistic Regression with Secret Sharing](https://arxiv.org/abs/2105.06869)                                                 |
-| zzz      | 2021 | [Separate but Together: Unsupervised Federated Learning for Speech Enhancement from Non-IID Data](https://arxiv.org/abs/2105.04727)            |
-| zzz      | 2021 | [Stronger Privacy for Federated Collaborative Filtering with Implicit Feedback](https://arxiv.org/abs/2105.03941)                              |
-| zzz      | 2021 | [The FeatureCloud AI Store for Federated Learning in Biomedicine and Beyond](https://arxiv.org/abs/2105.05734)                                 |
-| zzz      | 2021 | [The Federated Tumor Segmentation (FeTS) Challenge](https://arxiv.org/abs/2105.05874)                                                          |
-| zzz      | 2021 | [Towards Practical Watermark for Deep Neural Networks in Federated Learning](https://arxiv.org/abs/2105.03167)                                 |
-### 05.03 - 05.07
-| Accpeted   | Year | Title                                                                                                                                                   | Code |
-| ---------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
-| ICLR-SSMLS | 2021 | [Byzantine-Robust and Privacy-Preserving Framework for FedML](https://arxiv.org/abs/2105.02295)                                                         |
-| MIDL       | 2021 | [Membership Inference Attacks on Deep Regression Models for Neuroimaging](https://arxiv.org/abs/2105.02866)                                             |
-| zzz        | 2021 | [A Family of Hybrid Federated and Centralized Learning Architectures in Machine Learning](https://arxiv.org/abs/2105.03288)                             |
-| zzz        | 2021 | [Accelerated Gradient Tracking over Time-varying Graphs for Decentralized Optimization](https://arxiv.org/abs/2104.02596)                               |
-| zzz        | 2021 | [Business analytics meets artificial intelligence: Assessing the demand effects of discounts on Swiss train tickets](https://arxiv.org/abs/2105.01426)  |
-| zzz        | 2021 | [Density-Aware Federated Imitation Learning for Connected and Automated Vehicles with Unsignalized Intersection](https://arxiv.org/abs/2105.01889)      |
-| zzz        | 2021 | [Federated Face Recognition](https://arxiv.org/abs/2105.02501)                                                                                          |
-| zzz        | 2021 | [Federated Multi-View Learning for Private Medical Data Integration and Analysis](https://arxiv.org/abs/2105.01603)                                     |
-| zzz        | 2021 | [FedGL: Federated Graph Learning Framework with Global Self-Supervision](https://arxiv.org/abs/2105.03170)                                              |
-| zzz        | 2021 | [Latency Analysis of Consortium Blockchained Federated Learning](https://arxiv.org/abs/2105.04087)                                                      |
-| zzz        | 2021 | [Loss Tolerant Federated Learning](https://arxiv.org/abs/2105.03591)                                                                                    |
-| zzz        | 2021 | [Personalized Federated Learning by Structured and Unstructured Pruning under Data Heterogeneity](https://arxiv.org/abs/2105.00562)                     |
-| zzz        | 2021 | [Stronger Privacy for Federated Collaborative Filtering with Implicit Feedback](https://arxiv.org/abs/2105.03941)                                       |
-| zzz        | 2021 | [The Tags Are Alright: Robust Large-Scale RFID Clone Detection Through Federated Data-Augmented Radio Fingerprinting](https://arxiv.org/abs/2105.03671) |
-| zzz        | 2021 | [Towards Practical Watermark for Deep Neural Networks in Federated Learning](https://arxiv.org/abs/2105.03167)                                          |
+### 06.14 - 06.18
+| Accpeted | Year | Title                                                                                                                                                                   | Code |
+| -------- | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| zzz      | 2021 | [A Vertical Federated Learning Framework for Horizontally Partitioned Labels](https://arxiv.org/abs/2106.10056)                                                         |
+| zzz      | 2021 | [A Wasserstein Minimax Framework for Mixed Linear Regression](https://arxiv.org/abs/2106.07537)                                                                         |
+| zzz      | 2021 | [Accumulative Poisoning Attacks on Real-time Data](https://arxiv.org/abs/2106.09993)                                                                                    |
+| zzz      | 2021 | [CFedAvg: Achieving Efficient Communication and Fast Convergence in Non-IID Federated Learning](https://arxiv.org/abs/2106.07155)                                       |
+| zzz      | 2021 | [Coded Federated Learning Framework for AI-Based Mobile Application Services with Privacy-Awareness](https://arxiv.org/abs/2106.09261)                                  |
+| zzz      | 2021 | [Coded Privacy-Preserving Computation at Edge Networks](https://arxiv.org/abs/2106.08290)                                                                               |
+| zzz      | 2021 | [Communication-Efficient Agnostic Federated Averaging](https://arxiv.org/abs/2104.02748)                                                                                |
+| zzz      | 2021 | [CRFL: Certifiably Robust Federated Learning against Backdoor Attacks](https://arxiv.org/abs/2106.08283)                                                                |
+| zzz      | 2021 | [Decentralized Local Stochastic Extra-Gradient for Variational Inequalities](https://arxiv.org/abs/2106.08315)                                                          |
+| zzz      | 2021 | [Decentralized Personalized Federated Min-Max Problems](https://arxiv.org/abs/2106.07289)                                                                               |
+| zzz      | 2021 | [Dynamic Gradient Aggregation for Federated Domain Adaptation](https://arxiv.org/abs/2106.07578)                                                                        |
+| zzz      | 2021 | [Federated CycleGAN for Privacy-Preserving Image-to-Image Translation](https://arxiv.org/abs/2106.09246)                                                                |
+| zzz      | 2021 | [Federated Learning for Internet of Things: A Federated Learning Framework for On-device Anomaly Data Detection](https://arxiv.org/abs/2106.07976)                      |
+| zzz      | 2021 | [Federated Learning for Intrusion Detection System: Concepts, Challenges and Future Directions](https://arxiv.org/abs/2106.09527)                                       |
+| zzz      | 2021 | [Federated Learning over Energy Harvesting Wireless Networks](https://arxiv.org/abs/2106.08809)                                                                         |
+| zzz      | 2021 | [Federated Learning with Fair Averaging](https://arxiv.org/abs/2104.14937)                                                                                              |
+| zzz      | 2021 | [Federated Myopic Community Detection with One-shot Communication](https://arxiv.org/abs/2106.07255)                                                                    |
+| zzz      | 2021 | [Federated Robustness Propagation: Sharing Adversarial Robustness in Federated Learning](https://arxiv.org/abs/2106.10196)                                              |
+| zzz      | 2021 | [Federated Semi-supervised Medical Image Classification via Inter-client Relation Matching](https://arxiv.org/abs/2106.08600)                                           |
+| zzz      | 2021 | [Fine-Grained Data Selection for Improved Energy Efficiency of Federated Edge Learning](https://arxiv.org/abs/2106.12561)                                               |
+| zzz      | 2021 | [Is Shapley Value fair? Improving Client Selection for Mavericks in Federated Learning](https://arxiv.org/abs/2106.10734)                                               |
+| zzz      | 2021 | [Locally Differentially Private Federated Learning: Efficient Algorithms with Tight Risk Bounds](https://arxiv.org/abs/2106.09779)                                      |
+| zzz      | 2021 | [Low-Latency Federated Learning over Wireless Channels with Differential Privacy](https://arxiv.org/abs/2106.13039)                                                     |
+| zzz      | 2021 | [Multi-VFL: A Vertical Federated Learning System for Multiple Data and Label Owners](https://arxiv.org/abs/2106.05468)                                                  |
+| zzz      | 2021 | [On Dynamic Resource Allocation for Blockchain Assisted Federated Learning over Wireless Channels](https://arxiv.org/abs/2105.14708)                                    |
+| zzz      | 2021 | [On Large-Cohort Training for Federated Learning](https://arxiv.org/abs/2106.07820)                                                                                     |
+| zzz      | 2021 | [Optimal Accounting of Differential Privacy via Characteristic Function](https://arxiv.org/abs/2106.08567)                                                              |
+| zzz      | 2021 | [Optimality and Stability in Federated Learning: A Game-theoretic Approach](https://arxiv.org/abs/2106.09580)                                                           |
+| zzz      | 2021 | [Optimized Power Control Design for Over-the-Air Federated Edge Learning](https://arxiv.org/abs/2106.09316)                                                             |
+| zzz      | 2021 | [Over-the-Air Decentralized Federated Learning](https://arxiv.org/abs/2106.08011)                                                                                       |
+| zzz      | 2021 | [Privacy Assessment of Federated Learning using Private Personalized Layers](https://arxiv.org/abs/2106.08060)                                                          |
+| zzz      | 2021 | [Quantized Federated Learning under Transmission Delay and Outage Constraints](https://arxiv.org/abs/2106.09397)                                                        |
+| zzz      | 2021 | [QuantumFed: A Federated Learning Framework for Collaborative Quantum Training](https://arxiv.org/abs/2106.09109)                                                       |
+| zzz      | 2021 | [STAR-RIS Enabled Heterogeneous Networks: Ubiquitous NOMA Communication and Pervasive Federated Learning](https://arxiv.org/abs/2106.08592)                             |
+| zzz      | 2021 | [STEM: A Stochastic Two-Sided Momentum Algorithm Achieving Near-Optimal Sample and Communication Complexities for Federated Learning](https://arxiv.org/abs/2106.10435) |
+| zzz      | 2021 | [Towards Heterogeneous Clients with Elastic Federated Learning](https://arxiv.org/abs/2106.09433)                                                                       |
+| zzz      | 2021 | [Zero-Shot Federated Learning with New Classes for Audio Classification](https://arxiv.org/abs/2106.10019)                                                              |
+
+### 06.07 - 06.11
+| Accpeted | Year | Title                                                                                                                                                                         | Code |
+| -------- | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| zzz      | 2021 | [DP-NormFedAvg: Normalizing Client Updates for Privacy-Preserving Federated Learning](https://arxiv.org/abs/2106.07094)                                                       |
+| zzz      | 2021 | [Understanding the Interplay between Privacy and Robustness in Federated Learning](https://arxiv.org/abs/2106.07033)                                                          |
+| zzz      | 2021 | [Federated Learning Over Wireless Channels: Dynamic Resource Allocation and Task Scheduling](https://arxiv.org/abs/2106.06934)                                                |
+| zzz      | 2021 | [Adaptive Dynamic Pruning for Non-IID Federated Learning](https://arxiv.org/abs/2106.06921)                                                                                   |
+| zzz      | 2021 | [FedScale: Benchmarking Model and System Performance of Federated Learning](https://arxiv.org/abs/2105.11367)                                                                 |
+| zzz      | 2021 | [FGLP: A Federated Fine-Grained Location Prediction System for Mobile Users](https://arxiv.org/abs/2106.08946)                                                                |
+| zzz      | 2021 | [Federated Learning on Non-IID Data: A Survey](https://arxiv.org/abs/2106.06843)                                                                                              |
+| zzz      | 2021 | [Joint Client Scheduling and Resource Allocation under Channel Uncertainty in Federated Learning](https://arxiv.org/abs/2106.06796)                                           |
+| zzz      | 2021 | [Federated Learning with Buffered Asynchronous Aggregation](https://arxiv.org/abs/2106.06639)                                                                                 |
+| zzz      | 2021 | [Efficient and Less Centralized Federated Learning](https://arxiv.org/abs/2106.06627)                                                                                         |
+| zzz      | 2021 | [Federated Learning with Spiking Neural Networks](https://arxiv.org/abs/2106.06579)                                                                                           |
+| zzz      | 2021 | [User Label Leakage from Gradients in Federated Learning](https://arxiv.org/abs/2105.09369)                                                                                   |
+| zzz      | 2021 | [Exploiting Record Similarity for Practical Vertical Federated Learning](https://arxiv.org/abs/2106.06312)                                                                    |
+| zzz      | 2021 | [FedNLP: An interpretable NLP System to Decode Federal Reserve Communications](https://arxiv.org/abs/2106.06247)                                                              |
+| zzz      | 2021 | [Differentially Private Federated Learning via Inexact ADMM](https://arxiv.org/abs/2106.06127)                                                                                |
+| zzz      | 2021 | [Gradient Disaggregation: Breaking Privacy in Federated Learning by Reconstructing the User Participant Matrix](https://arxiv.org/abs/2106.06089)                             |
+| zzz      | 2021 | [Rethinking Architecture Design for Tackling Data Heterogeneity in Federated Learning](https://arxiv.org/abs/2106.06047)                                                      |
+| zzz      | 2021 | [Vertical Federated Learning without Revealing Intersection Membership](https://arxiv.org/abs/2106.05508)                                                                     |
+| zzz      | 2021 | [FedDICE: A ransomware spread detection in a distributed integrated clinical environment using federated learning and SDN based mitigation](https://arxiv.org/abs/2106.05434) |
+| zzz      | 2021 | [Data-Free Knowledge Distillation for Heterogeneous Federated Learning](https://arxiv.org/abs/2105.10056)                                                                     |
+| zzz      | 2021 | [Cross-Node Federated Graph Neural Network for Spatio-Temporal Data Modeling](https://arxiv.org/abs/2106.05223)                                                               |
+| zzz      | 2021 | [No Fear of Heterogeneity: Classifier Calibration for Federated Learning with Non-IID Data](https://arxiv.org/abs/2106.05001)                                                 |
+| zzz      | 2021 | [Memory-based Optimization Methods for Model-Agnostic Meta-Learning](https://arxiv.org/abs/2106.04911)                                                                        |
+| zzz      | 2021 | [Federated Hyperparameter Tuning: Challenges, Baselines, and Connections to Weight-Sharing](https://arxiv.org/abs/2106.04502)                                                 |
+| zzz      | 2021 | [Incentive Mechanism for Privacy-Preserving Federated Learning](https://arxiv.org/abs/2106.04384)                                                                             |
+| zzz      | 2021 | [Fast Federated Learning in the Presence of Arbitrary Device Unavailability](https://arxiv.org/abs/2106.04159)                                                                |
+| zzz      | 2021 | [Federated Learning of User Verification Models Without Sharing Embeddings](https://arxiv.org/abs/2104.08776)                                                                 |
+| zzz      | 2021 | [Unsupervised Clustered Federated Learning in Complex Multi-source Acoustic Environments](https://arxiv.org/abs/2106.03671)                                                   |
+| zzz      | 2021 | [D-Cliques: Compensating NonIIDness in Decentralized Federated Learning with Topology](https://arxiv.org/abs/2104.07365)                                                      |
+| zzz      | 2021 | [Securing Secure Aggregation: Mitigating Multi-Round Privacy Leakage in Federated Learning](https://arxiv.org/abs/2106.03328)                                                 |
+| zzz      | 2021 | [FedNILM: Applying Federated Learning to NILM Applications at the Edge](https://arxiv.org/abs/2106.07751)                                                                     |
 ## 2020
 - [Dec](2020/12.md)
