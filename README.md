@@ -22,10 +22,36 @@ The **Latest** version of [Tencent document](https://docs.qq.com/sheet/DSXB6Qk9K
 - [Jan](2021/01.md)
 
 
+### 06.28 - 07.02 << this week
 
-### 06.21 - 06.25 << this week
-| Accpeted | Year | Title | Code |
-| -------- | ---- | ----- | ---- |
+### 06.21 - 06.25
+| Accpeted | Year | Title                                                                                                                                       | Code |
+| -------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| zzz      | 2021 | [A Federated Data-Driven Evolutionary Algorithm for Expensive Multi/Many-objective Optimization](https://arxiv.org/abs/2106.12086)          |
+| zzz      | 2021 | [A Vertical Federated Learning Framework for Graph Convolutional Network](https://arxiv.org/abs/2106.11593)                                 |
+| zzz      | 2021 | [Affect-driven Engagement Measurement from Videos](https://arxiv.org/abs/2106.10882)                                                        |
+| zzz      | 2021 | [Behavior Mimics Distribution: Combining Individual and Group Behaviors for Federated Learning](https://arxiv.org/abs/2106.12300)           |
+| zzz      | 2021 | [Benchmarking Differential Privacy and Federated Learning for BERT Models](https://arxiv.org/abs/2106.13973)                                |
+| zzz      | 2021 | [Compositional Federated Learning: Applications in Distributionally Robust Averaging and Meta Learning](https://arxiv.org/abs/2106.11264)   |
+| zzz      | 2021 | [Enabling Long-Term Cooperation in Cross-Silo Federated Learning: A Repeated Game Perspective](https://arxiv.org/abs/2106.11814)            |
+| zzz      | 2021 | [FedCM: Federated Learning with Client-level Momentum](https://arxiv.org/abs/2106.10874)                                                    |
+| zzz      | 2021 | [Federated Graph Classification over Non-IID Graphs](https://arxiv.org/abs/2106.13423)                                                      |
+| zzz      | 2021 | [Federated Learning with Positive and Unlabeled Data](https://arxiv.org/abs/2106.10904)                                                     |
+| zzz      | 2021 | [FedFace: Collaborative Learning of Face Recognition Model](https://arxiv.org/abs/2104.03008)                                               |
+| zzz      | 2021 | [Fed-NILM: A Federated Learning-based Non-Intrusive Load Monitoring Method for Privacy-Protection](https://arxiv.org/abs/2105.11085)        |
+| zzz      | 2021 | [FedXGBoost: Privacy-Preserving XGBoost for Federated Learning](https://arxiv.org/abs/2106.10662)                                           |
+| zzz      | 2021 | [FLRA: A Reference Architecture for Federated Learning Systems](https://arxiv.org/abs/2106.11570)                                           |
+| zzz      | 2021 | [Implicit Gradient Alignment in Distributed and Federated Learning](https://arxiv.org/abs/2106.13897)                                       |
+| zzz      | 2021 | [Multi-task Over-the-Air Federated Learning: A Non-Orthogonal Transmission Approach](https://arxiv.org/abs/2106.14229)                      |
+| zzz      | 2021 | [Personalized Federated Learning with Clustered Generalization](https://arxiv.org/abs/2106.13044)                                           |
+| zzz      | 2021 | [Privacy Threats Analysis to Secure Federated Learning](https://arxiv.org/abs/2106.13076)                                                   |
+| zzz      | 2021 | [Quantized Federated Learning under Transmission Delay and Outage Constraints](https://arxiv.org/abs/2106.09397)                            |
+| zzz      | 2021 | [Reward-Based 1-bit Compressed Federated Distillation on Blockchain](https://arxiv.org/abs/2106.14265)                                      |
+| zzz      | 2021 | [Secure Distributed Training at Scale](https://arxiv.org/abs/2106.11257)                                                                    |
+| zzz      | 2021 | [STAR-RIS Enabled Heterogeneous Networks: Ubiquitous NOMA Communication and Pervasive Federated Learning](https://arxiv.org/abs/2106.08592) |
+| zzz      | 2021 | [Subgraph Federated Learning with Missing Neighbor Generation](https://arxiv.org/abs/2106.13430)                                            |
+| zzz      | 2021 | [Triggerflow: Trigger-based Orchestration of Serverless Workflows](https://arxiv.org/abs/2106.00583)                                        |
+| zzz      | 2021 | [Understanding Clipping for Federated Learning: Convergence and Client-Level Differential Privacy](https://arxiv.org/abs/2106.13673)        |
 
 ### 06.14 - 06.18
 | Accpeted | Year | Title                                                                                                                                                                   | Code |
